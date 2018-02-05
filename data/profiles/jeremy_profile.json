@@ -1,0 +1,470 @@
+[
+  {
+    "Content": "La raison de votre invalidité est-elle d'origine professionnelle ou non professionnelle ?professionelle"
+  },
+  {
+    "Content": "- un accident professionnel ou une maladie professionnelle ?accident professionelle"
+  },
+  {
+    "Content": "- OU un accident non professionnel ou une maladie non professionnelle ?"
+  },
+  {
+    "Content": "Merci de répondre aux questions de votre catégorie : professionnelle ou non professionnelle."
+  },
+  {
+    "Content": "* Dans le cas d%u2019un accident ou d%u2019une maladie non professionnelle :"
+  },
+  {
+    "Content": "- Quelle est la catégorie de votre invalidité"
+  },
+  {
+    "Content": 2
+  },
+  {
+    "Content": "- Quel est votre taux d%u2019incapacité ?"
+  },
+  {
+    "Content": 65
+  },
+  {
+    "Content": "Percevez-vous une pension d%u2019invalidité de la CPAM ?oui"
+  },
+  {
+    "Content": "Quel est son montant ?1036"
+  },
+  {
+    "Content": "- Percevez-vous une aide de votre MDPH ?non"
+  },
+  {
+    "Content": "Quelle est-elle ? Quel est son montant ?"
+  },
+  {
+    "Content": "- Percevez-vous une rente de la part de votre assureur privé ?24 euro par jour"
+  },
+  {
+    "Content": "Quel est son montant ?24 euro par jour"
+  },
+  {
+    "Content": "* Pouvez-vous encore exercer une profession ?pas encore"
+  },
+  {
+    "Content": "Si oui"
+  },
+  {
+    "Content": "- En recherche d%u2019emploi ?"
+  },
+  {
+    "Content": "- Salarié dans la même entreprise ou dans une autre entreprise ? Salarié au même poste ou à un autre poste ? Salarié à temps plein ou à temps partiel (horaires aménagées) ?"
+  },
+  {
+    "Content": "- A votre compte ? Dans la même structure ou avez-vous créé une nouvelle structure ?"
+  },
+  {
+    "Content": "a mon compte"
+  },
+  {
+    "Content": "* Quelle est votre situation familiale ?"
+  },
+  {
+    "Content": "Célibataire ou en couple ?"
+  },
+  {
+    "Content": "couple"
+  },
+  {
+    "Content": "Enfant ou pas d%u2019enfant ?"
+  },
+  {
+    "Content": "avec enfant"
+  },
+  {
+    "Content": "Votre famille vous est-elle venue en aide dès le début ?"
+  },
+  {
+    "Content": "oui ma femme m as soutenue moralement mais pas d aide pécuniere"
+  },
+  {
+    "Content": "Votre famille vous vient-elle en aide encore aujourd%u2019hui ?"
+  },
+  {
+    "Content": "j arrive a joindre les deux bout"
+  },
+  {
+    "Content": "Sur quels points votre famille vous vient-elle en aide ?"
+  },
+  {
+    "Content": "surtout accompagnement moral"
+  },
+  {
+    "Content": "Petite précision : par famille nous entendons également le conjoint si vous vivez en couple et les enfants si vous en avez."
+  },
+  {
+    "Content": "A quel moment avez-vous déclaré votre situation à votre assureur ?"
+  },
+  {
+    "Content": "a la sortie de l hopital"
+  },
+  {
+    "Content": "Pourriez-vous me décrire les circonstances ?"
+  },
+  {
+    "Content": "j ai appeler mon assureur et il m as dit d écrire u n courrier accompagné de la déclaration d accident plus la facture de l hopital"
+  },
+  {
+    "Content": "Quelles démarches avez-vous dû faire ?"
+  },
+  {
+    "Content": "remplir les documents fournir les actes médicaux attendre le calcul de la sécurité sociale pour calculer le reste de l indemnité"
+  },
+  {
+    "Content": "- Vous souvenez-vous de la prise en charge de votre dossier ? Comment cela s%u2019est-il passé ?ils ont ouvert un dossier invalidité et j ai attendu la gestion"
+  },
+  {
+    "Content": "Entretien téléphonique"
+  },
+  {
+    "Content": "Courriers ?2 entretien téléphonique 1 interlocuteur 2 courriers"
+  },
+  {
+    "Content": "Longueur de la démarche ?1mois"
+  },
+  {
+    "Content": "Eventuelles contestations ou corrections ?aucune"
+  },
+  {
+    "Content": "- Ayant déclaré votre situation à votre assureur"
+  },
+  {
+    "Content": "- Etait-ce conforme à vos attentes"
+  },
+  {
+    "Content": "- Aujourd%u2019hui avez-vous encore à effectuer des démarches auprès de votre assureur ? je transmet les documents de situation et les arrets"
+  },
+  {
+    "Content": "Si oui"
+  },
+  {
+    "Content": "lesquelles et pour quelle raison ?arret de travail"
+  },
+  {
+    "Content": "quelle est la portée de ces démarches ? sur quoi devraient-elles déboucher ?continuer de percevoir mes indemnités"
+  },
+  {
+    "Content": "- Votre médecin traitant / votre spécialiste sont-ils impliqués dans ces démarches auprès de votre assureur ? De quelle façon ?arret de maladie"
+  },
+  {
+    "Content": "- Avez-vous perçu une indemnité de votre assureur ?oui j ae persois une indemnité mensuel"
+  },
+  {
+    "Content": "Si non"
+  },
+  {
+    "Content": "Si oui"
+  },
+  {
+    "Content": "conforme aux contrats souscrit"
+  },
+  {
+    "Content": "- De quelle façon votre indemnité a-t-elle été calculée ?"
+  },
+  {
+    "Content": "cotisation du contrat"
+  },
+  {
+    "Content": "- Sous quelle forme ? Un versement unique"
+  },
+  {
+    "Content": "- Cette situation est-elle censée évoluer ? Si oui de quelle façon ?pareil jusqu a la reprise du travail"
+  },
+  {
+    "Content": "- De quelle façon votre situation financière (revenus maintenus ou non"
+  },
+  {
+    "Content": "aucun changement de projet sauf annulation de vacances"
+  },
+  {
+    "Content": "- Aviez-vous engagé certaines dépenses (autre qu%u2019achat immobilier) qui sont soudain devenues impossibles à honorer"
+  },
+  {
+    "Content": "merci"
+  },
+  {
+    "Content": "j ai recu de la pub axa j ai lu plus des pub ne laisser pas vos proches sans revenu en cas d accident"
+  },
+  {
+    "Content": "donc j ai préférer souscrire"
+  },
+  {
+    "Content": "oui je récupére mes 30 pour cent par l assurance invadilité"
+  },
+  {
+    "Content": "Avez-vous pu poursuivre votre activité professionnelle? De quelle façon ?"
+  },
+  {
+    "Content": "je continue de travailler sur ordinateurje fais devis facture et prise de rdv par téléphone"
+  },
+  {
+    "Content": "Avez-vous dû faire des aménagements ?des rampes d appuie bureau et salle de bain"
+  },
+  {
+    "Content": "Aménagement de poste de travail / changement de poste ?"
+  },
+  {
+    "Content": "travail domicile"
+  },
+  {
+    "Content": "Aménagement d%u2019horaires ?"
+  },
+  {
+    "Content": "3 h par jour lus téléphone en illimité de 8h a 23h"
+  },
+  {
+    "Content": "Aménagement de locaux (ex : rampe pour fauteuil roulant"
+  },
+  {
+    "Content": "rampe de fauteuil installé pour mes visites au local"
+  },
+  {
+    "Content": "- Quel a été l%u2019impact financier pour vous ? Par quoi cela s%u2019est%u2013il traduit ?"
+  },
+  {
+    "Content": "perte de 30 pour cent"
+  },
+  {
+    "Content": "- Si vous avez dû interrompre votre activité"
+  },
+  {
+    "Content": "- Avez-vous décidé de rester à votre compte"
+  },
+  {
+    "Content": "Etes-vous indemnisé aujourd%u2019hui par la Sécurité Sociale pour votre invalidité ?oui"
+  },
+  {
+    "Content": "- A quel taux / quel montant ?"
+  },
+  {
+    "Content": "70 pour cent de mon salaire"
+  },
+  {
+    "Content": "- Combien de temps après votre accident avez-vous commencé à percevoir cette indemnité ?"
+  },
+  {
+    "Content": "3 mois et demie"
+  },
+  {
+    "Content": "- Votre indemnité a-t-elle fait l%u2019objet d%u2019ajustements ? Si oui"
+  },
+  {
+    "Content": "non"
+  },
+  {
+    "Content": "Qu%u2019avez-vous du faire à cette occasion (visites médicales complémentaires"
+  },
+  {
+    "Content": "- Avez-vous noté des incidents dans votre indemnisation ?juste des décalages de jour"
+  },
+  {
+    "Content": "Aujourd%u2019hui ces incidents sont-ils réglés ou en passe de l%u2019être ?ca varie toujours pas de date fixe mensuel"
+  },
+  {
+    "Content": "- Vous souvenez-vous de votre déclaration d%u2019état de santé à la Sécurité Sociale ? Quelles démarches avez-vous dû effectuer ?"
+  },
+  {
+    "Content": "j ai passer ma carte vitale a l hopital pour les soins apres le docteur a remplie une demande a la securité sociale de prise en charge"
+  },
+  {
+    "Content": "j ai transmis l arret de maladie a la securité sociale"
+  },
+  {
+    "Content": "- Quel accueil avez-vous reçu à la Sécurité Sociale ? Avez-vous eu l%u2019impression d%u2019être en présence d%u2019interlocuteurs compétents ou à l%u2019écoute ? oui j ai été vraiment pris en charge on m as bien renseigner on m as imprimé les formulaires"
+  },
+  {
+    "Content": "Sur quoi fondez-vous votre opinion sur ce point ? Pourriez-vous me donner des détails ?"
+  },
+  {
+    "Content": "on m as expliquer tous le processus les feuilles a remplir a faire signer les documents a ramener"
+  },
+  {
+    "Content": "- Combien d%u2019interlocuteurs avez-vous eu ? Savez-vous pourquoi ?"
+  },
+  {
+    "Content": "j ai eu 2 interlocuteur"
+  },
+  {
+    "Content": "- Où en êtes-vous aujourd%u2019hui du processus de déclaration à la Sécurité Sociale ?"
+  },
+  {
+    "Content": "tout a été donné je recois mes indemnités tous les mois"
+  },
+  {
+    "Content": "Examens terminés"
+  },
+  {
+    "Content": "je suis pris a 100 pour cent"
+  },
+  {
+    "Content": "- Combien de visites médicales ou d%u2019examens vous ont été demandés par la Sécurité Sociale ?"
+  },
+  {
+    "Content": "on m as demandé des examens tous les 3 mois"
+  },
+  {
+    "Content": "Sur combien de temps ces examens se sont-ils étalés ?"
+  },
+  {
+    "Content": "sur 2 ans"
+  },
+  {
+    "Content": "- Le diagnostic a%u2013t%u2019il évolué au cours de ce processus ? De quelle façon ?"
+  },
+  {
+    "Content": "il s est améliorer"
+  },
+  {
+    "Content": "Aujourd%u2019hui avez-vous encore à passer des examens de contrôle ou de diagnostic ?"
+  },
+  {
+    "Content": "oui controle évaluation a la marche"
+  },
+  {
+    "Content": "Si oui"
+  },
+  {
+    "Content": "le diagnostic est établie au fur a mesure de l évolution de la maladie"
+  },
+  {
+    "Content": "- Votre médecin traitant ou le spécialiste qui vous suit / vous a suivi est-il impliqué dans ce processus ?"
+  },
+  {
+    "Content": "oui c est lui qui fournit les documents a signer"
+  },
+  {
+    "Content": "- Avez-vous perçu une continuité dans les avis médicaux"
+  },
+  {
+    "Content": "oui j'étais surpris par le diagnostique au départ je pensais que c était une simple chute des petites fractures"
+  },
+  {
+    "Content": "j étais dans un état normal comme une petite chute sans concequence"
+  },
+  {
+    "Content": "le médecin n as pas voulu emplifié l état physique il a été tres prudent"
+  },
+  {
+    "Content": "pas voulu m affoler ca va etre long une bonne réeducation"
+  },
+  {
+    "Content": "il m as dirigé vers tous les services kiné papier prise en charge ostéo"
+  },
+  {
+    "Content": "j ai fait 6 visite de diagnostic"
+  },
+  {
+    "Content": "1 examen tous les 15 jours sur 1m et demie"
+  },
+  {
+    "Content": "l évolution a évoluer positivement de la chaise roulante je suis au stade de la canne"
+  },
+  {
+    "Content": "je fais tous les 4 mois des radio des scanners"
+  },
+  {
+    "Content": "toujours avec le meme professeur"
+  },
+  {
+    "Content": "y a eu au milieu du processus un flottement entre la chaise roullante au moment de la rééducation entre le professeur qui voulait que je continue un mois en plus en chaise et le kiné et osteo qui voulait que j abandonne la chaise"
+  },
+  {
+    "Content": "bon week end a tous"
+  },
+  {
+    "Content": "Pourriez-vous me décrire les circonstances de la survenue de votre invalidité"
+  },
+  {
+    "Content": "c est survenu en novembre 2014 suite a une chute echafaudage mal fixé"
+  },
+  {
+    "Content": "je suis artisant j étais sur un chantier et l échafaude s est ecroulé"
+  },
+  {
+    "Content": "- Quelles ont été les différentes étapes du diagnostic ? Pourriez-vous refaire la chronologie des différents évènements"
+  },
+  {
+    "Content": "chute echafaudage -transport a l hopital -operation des membres inférieurs -séjour hopital-sortis de l hopital au bout de 3 semaines- chaise roulante-rééducation marche"
+  },
+  {
+    "Content": "aujourd hui canne pour marché"
+  },
+  {
+    "Content": "- Combien de temps s%u2019est écoulé entre l%u2019accident/le début de la maladie et le verdict médical final ?immédiactement"
+  },
+  {
+    "Content": "- Comment a réagi votre entourage ?ils m ont bien entouré"
+  },
+  {
+    "Content": "Globalement"
+  },
+  {
+    "Content": "ca a tout changé dans ma vie plus de travail journalier actif"
+  },
+  {
+    "Content": "plus le plaisir de marché normalement de conduire de faire du sport"
+  },
+  {
+    "Content": "vivre en invalide ca ralentit la vie au fil du jour on s adapte a nos capacité actuelle marché avec une canne vivre diminué on s occupe a distance sur l ordiateur je me léve le matin a 10 h je prend mon petit déjeuner apres je vais un peu de trvail sur internet apres repas petite sieste apres je sors un peu m aerer et marché un peu puis un peu de travail sur internet devis facture puis le reps du soir plus tele jusqu a 1 h du math puis dodo"
+  },
+  {
+    "Content": "marché au ralentit etre en invalidité faire les courses conduire vivre comme tout le monde pause probleme"
+  },
+  {
+    "Content": "ma journée"
+  },
+  {
+    "Content": "bonjour jeremy enchanté de partager ce blog avec vous"
+  },
+  {
+    "Content": "levée le matin a 10h30"
+  },
+  {
+    "Content": "petit déjeuné dehors sur ma terrasse je vais acheté mon pain coupé en tranche"
+  },
+  {
+    "Content": "avec mon petit beurre"
+  },
+  {
+    "Content": "apres je fais un peu d internet"
+  },
+  {
+    "Content": "jusqu a 12h30"
+  },
+  {
+    "Content": "je mange a 12h30 jusqu a 13h30 terrasse"
+  },
+  {
+    "Content": "apres petite sieste jusqu a 15 h"
+  },
+  {
+    "Content": "apres petite balade avec ma canne"
+  },
+  {
+    "Content": "aérer jusqu a 16h"
+  },
+  {
+    "Content": "apres internet je vais ma comptabilité et mes devis sur internet pour ma société"
+  },
+  {
+    "Content": "le soir repas a 19h30"
+  },
+  {
+    "Content": "le jt a 20h"
+  },
+  {
+    "Content": "apres le film a la télé"
+  },
+  {
+    "Content": "jusqu a minuit"
+  },
+  {
+    "Content": "apres dodo"
+  }
+]

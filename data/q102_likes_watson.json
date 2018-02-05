@@ -1,0 +1,6401 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glitter",
+      "sentiment": {
+        "score": 0.814295,
+        "label": "positive"
+      },
+      "relevance": 0.941548,
+      "emotion": {
+        "sadness": 0.174023,
+        "joy": 0.294694,
+        "fear": 0.092019,
+        "disgust": 0.09759,
+        "anger": 0.091114
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd70bce0581"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good glide",
+      "sentiment": {
+        "score": 0.952218,
+        "label": "positive"
+      },
+      "relevance": 0.901824,
+      "emotion": {
+        "sadness": 0.114959,
+        "joy": 0.722951,
+        "fear": 0.066616,
+        "disgust": 0.052018,
+        "anger": 0.05459
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 124,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.773274,
+        "label": "positive"
+      },
+      "relevance": 0.984322,
+      "emotion": {
+        "sadness": 0.146437,
+        "joy": 0.762574,
+        "fear": 0.061136,
+        "disgust": 0.033738,
+        "anger": 0.01742
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "neutral pink color",
+      "sentiment": {
+        "score": -0.770789,
+        "label": "negative"
+      },
+      "relevance": 0.992671,
+      "emotion": {
+        "sadness": 0.016044,
+        "joy": 0.832931,
+        "fear": 0.018289,
+        "disgust": 0.010158,
+        "anger": 0.015431
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossiness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "w/e  great  color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.948733,
+      "emotion": {
+        "sadness": 0.011234,
+        "joy": 0.687042,
+        "fear": 0.024503,
+        "disgust": 0.00162,
+        "anger": 0.005112
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "perfect color",
+      "sentiment": {
+        "score": 0.570244,
+        "label": "positive"
+      },
+      "relevance": 0.991605,
+      "emotion": {
+        "sadness": 0.026543,
+        "joy": 0.841549,
+        "fear": 0.015572,
+        "disgust": 0.001602,
+        "anger": 0.00812
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips easy application",
+      "sentiment": {
+        "score": 0.66551,
+        "label": "positive"
+      },
+      "relevance": 0.982962,
+      "emotion": {
+        "sadness": 0.113893,
+        "joy": 0.539285,
+        "fear": 0.026389,
+        "disgust": 0.065507,
+        "anger": 0.065124
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 109,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.629374,
+        "label": "positive"
+      },
+      "relevance": 0.930035,
+      "emotion": {
+        "sadness": 0.123132,
+        "joy": 0.242436,
+        "fear": 0.032568,
+        "disgust": 0.138802,
+        "anger": 0.090396
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EVENLY A/E N/E",
+      "sentiment": {
+        "score": 0.559949,
+        "label": "positive"
+      },
+      "relevance": 0.992377,
+      "emotion": {
+        "sadness": 0.06507,
+        "joy": 0.728867,
+        "fear": 0.159519,
+        "disgust": 0.032608,
+        "anger": 0.023718
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.869441,
+        "label": "positive"
+      },
+      "relevance": 0.913038,
+      "emotion": {
+        "sadness": 0.164374,
+        "joy": 0.773677,
+        "fear": 0.03316,
+        "disgust": 0.008618,
+        "anger": 0.006589
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sticky feeling",
+      "sentiment": {
+        "score": -0.767796,
+        "label": "negative"
+      },
+      "relevance": 0.976552,
+      "emotion": {
+        "sadness": 0.540973,
+        "joy": 0.280329,
+        "fear": 0.205973,
+        "disgust": 0.035932,
+        "anger": 0.053631
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good color",
+      "sentiment": {
+        "score": 0.942685,
+        "label": "positive"
+      },
+      "relevance": 0.918866,
+      "emotion": {
+        "sadness": 0.069971,
+        "joy": 0.867495,
+        "fear": 0.046121,
+        "disgust": 0.007245,
+        "anger": 0.011014
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.923932,
+      "emotion": {
+        "sadness": 0.179832,
+        "joy": 0.53591,
+        "fear": 0.188935,
+        "disgust": 0.116641,
+        "anger": 0.034654
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd70bce0241"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 14,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.981059,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips moist",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.996328,
+      "emotion": {
+        "sadness": 0.514354,
+        "joy": 0.108469,
+        "fear": 0.18675,
+        "disgust": 0.194402,
+        "anger": 0.147874
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992378,
+      "emotion": {
+        "sadness": 0.480654,
+        "joy": 0.227677,
+        "fear": 0.102244,
+        "disgust": 0.057094,
+        "anger": 0.064392
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting effect",
+      "sentiment": {
+        "score": 0.639504,
+        "label": "positive"
+      },
+      "relevance": 0.98427,
+      "emotion": {
+        "sadness": 0.462767,
+        "joy": 0.100793,
+        "fear": 0.135976,
+        "disgust": 0.035775,
+        "anger": 0.044896
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd70bce0481"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 14,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.922618,
+      "emotion": {
+        "sadness": 0.31909,
+        "joy": 0.184741,
+        "fear": 0.072925,
+        "disgust": 0.081613,
+        "anger": 0.070039
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "scent",
+      "sentiment": {
+        "score": 0.638033,
+        "label": "positive"
+      },
+      "relevance": 0.943175,
+      "emotion": {
+        "sadness": 0.22541,
+        "joy": 0.436412,
+        "fear": 0.115949,
+        "disgust": 0.119676,
+        "anger": 0.108759
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "non shimmer product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901551,
+      "emotion": {
+        "sadness": 0.091242,
+        "joy": 0.695788,
+        "fear": 0.034358,
+        "disgust": 0.013365,
+        "anger": 0.005752
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lasting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901829,
+      "emotion": {
+        "sadness": 0.406133,
+        "joy": 0.105535,
+        "fear": 0.096561,
+        "disgust": 0.054501,
+        "anger": 0.072554
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 137,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "goopy gloss",
+      "sentiment": {
+        "score": -0.858032,
+        "label": "negative"
+      },
+      "relevance": 0.96664,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.179551,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.088473
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "perfect shine",
+      "sentiment": {
+        "score": 0.970025,
+        "label": "positive"
+      },
+      "relevance": 0.916516,
+      "emotion": {
+        "sadness": 0.034156,
+        "joy": 0.940373,
+        "fear": 0.007663,
+        "disgust": 0.001317,
+        "anger": 0.003668
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0231"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 139,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": -0.665243,
+        "label": "negative"
+      },
+      "relevance": 0.969028,
+      "emotion": {
+        "sadness": 0.351722,
+        "joy": 0.278442,
+        "fear": 0.185707,
+        "disgust": 0.174876,
+        "anger": 0.086953
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice color",
+      "sentiment": {
+        "score": 0.530126,
+        "label": "positive"
+      },
+      "relevance": 0.904817,
+      "emotion": {
+        "sadness": 0.045177,
+        "joy": 0.656549,
+        "fear": 0.029743,
+        "disgust": 0.011926,
+        "anger": 0.039566
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glitter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.943514,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.182891,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.088473
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fact",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987558,
+      "emotion": {
+        "sadness": 0.258089,
+        "joy": 0.339073,
+        "fear": 0.094863,
+        "disgust": 0.266771,
+        "anger": 0.154032
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.743389,
+        "label": "positive"
+      },
+      "relevance": 0.970229,
+      "emotion": {
+        "sadness": 0.024636,
+        "joy": 0.546438,
+        "fear": 0.005914,
+        "disgust": 0.003134,
+        "anger": 0.005543
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "easy application",
+      "sentiment": {
+        "score": 0.959483,
+        "label": "positive"
+      },
+      "relevance": 0.967209,
+      "emotion": {
+        "sadness": 0.087198,
+        "joy": 0.55992,
+        "fear": 0.004076,
+        "disgust": 0.001891,
+        "anger": 0.009311
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "plump",
+      "sentiment": {
+        "score": 0.656682,
+        "label": "positive"
+      },
+      "relevance": 0.945373,
+      "emotion": {
+        "sadness": 0.131161,
+        "joy": 0.742947,
+        "fear": 0.056115,
+        "disgust": 0.038292,
+        "anger": 0.043212
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.880866,
+        "label": "positive"
+      },
+      "relevance": 0.995641,
+      "emotion": {
+        "sadness": 0.261052,
+        "joy": 0.5145,
+        "fear": 0.122123,
+        "disgust": 0.120455,
+        "anger": 0.046687
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.64976,
+        "label": "positive"
+      },
+      "relevance": 0.936718,
+      "emotion": {
+        "sadness": 0.10182,
+        "joy": 0.746842,
+        "fear": 0.037064,
+        "disgust": 0.055166,
+        "anger": 0.049788
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 125,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "compliments",
+      "sentiment": {
+        "score": 0.819845,
+        "label": "positive"
+      },
+      "relevance": 0.966355,
+      "emotion": {
+        "sadness": 0.096902,
+        "joy": 0.706752,
+        "fear": 0.003379,
+        "disgust": 0.008563,
+        "anger": 0.009226
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.760694,
+        "label": "positive"
+      },
+      "relevance": 0.921469,
+      "emotion": {
+        "sadness": 0.302342,
+        "joy": 0.432993,
+        "fear": 0.232018,
+        "disgust": 0.121766,
+        "anger": 0.023731
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice packaging",
+      "sentiment": {
+        "score": 0.911011,
+        "label": "positive"
+      },
+      "relevance": 0.985519,
+      "emotion": {
+        "sadness": 0.005987,
+        "joy": 0.739741,
+        "fear": 0.016046,
+        "disgust": 0.00312,
+        "anger": 0.017272
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shiny look",
+      "sentiment": {
+        "score": 0.816153,
+        "label": "positive"
+      },
+      "relevance": 0.954773,
+      "emotion": {
+        "sadness": 0.123499,
+        "joy": 0.406639,
+        "fear": 0.054607,
+        "disgust": 0.096045,
+        "anger": 0.052561
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.743745,
+        "label": "positive"
+      },
+      "relevance": 0.976031,
+      "emotion": {
+        "sadness": 0.200555,
+        "joy": 0.255347,
+        "fear": 0.064607,
+        "disgust": 0.055234,
+        "anger": 0.061471
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.863031,
+        "label": "positive"
+      },
+      "relevance": 0.963169,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice color",
+      "sentiment": {
+        "score": 0.616639,
+        "label": "positive"
+      },
+      "relevance": 0.944664,
+      "emotion": {
+        "sadness": 0.006964,
+        "joy": 0.556855,
+        "fear": 0.023463,
+        "disgust": 0.003892,
+        "anger": 0.024884
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.66694,
+        "label": "positive"
+      },
+      "relevance": 0.972405,
+      "emotion": {
+        "sadness": 0.088317,
+        "joy": 0.167914,
+        "fear": 0.072976,
+        "disgust": 0.021813,
+        "anger": 0.053691
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0621"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "light color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95057,
+      "emotion": {
+        "sadness": 0.048605,
+        "joy": 0.229744,
+        "fear": 0.10294,
+        "disgust": 0.01546,
+        "anger": 0.018962
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.936944,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shininess",
+      "sentiment": {
+        "score": 0.746638,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccd8013c4bdb"}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccd8013c4bcb"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 137,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice shimmer",
+      "sentiment": {
+        "score": 0.860518,
+        "label": "positive"
+      },
+      "relevance": 0.980738,
+      "emotion": {
+        "sadness": 0.060106,
+        "joy": 0.854059,
+        "fear": 0.047071,
+        "disgust": 0.01131,
+        "anger": 0.021539
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy glow shine",
+      "sentiment": {
+        "score": 0.976715,
+        "label": "positive"
+      },
+      "relevance": 0.937021,
+      "emotion": {
+        "sadness": 0.189603,
+        "joy": 0.721861,
+        "fear": 0.013188,
+        "disgust": 0.0036,
+        "anger": 0.023246
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.805908,
+        "label": "positive"
+      },
+      "relevance": 0.904467,
+      "emotion": {
+        "sadness": 0.117525,
+        "joy": 0.452044,
+        "fear": 0.072415,
+        "disgust": 0.065423,
+        "anger": 0.037253
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy red color",
+      "sentiment": {
+        "score": 0.93426,
+        "label": "positive"
+      },
+      "relevance": 0.955661,
+      "emotion": {
+        "sadness": 0.047489,
+        "joy": 0.788892,
+        "fear": 0.113142,
+        "disgust": 0.010355,
+        "anger": 0.030244
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccd80cd1b6e9"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glare",
+      "sentiment": {
+        "score": 0.828202,
+        "label": "positive"
+      },
+      "relevance": 0.974013,
+      "emotion": {
+        "sadness": 0.17375,
+        "joy": 0.288893,
+        "fear": 0.092497,
+        "disgust": 0.096474,
+        "anger": 0.091108
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.740776,
+        "label": "positive"
+      },
+      "relevance": 0.939133,
+      "emotion": {
+        "sadness": 0.213299,
+        "joy": 0.522049,
+        "fear": 0.114223,
+        "disgust": 0.022781,
+        "anger": 0.034224
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.786132,
+        "label": "positive"
+      },
+      "relevance": 0.955804,
+      "emotion": {
+        "sadness": 0.552432,
+        "joy": 0.231045,
+        "fear": 0.112748,
+        "disgust": 0.16651,
+        "anger": 0.089489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.840449,
+        "label": "positive"
+      },
+      "relevance": 0.956763,
+      "emotion": {
+        "sadness": 0.170243,
+        "joy": 0.263306,
+        "fear": 0.076385,
+        "disgust": 0.022918,
+        "anger": 0.046421
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": -0.387435,
+        "label": "negative"
+      },
+      "relevance": 0.909582,
+      "emotion": {
+        "sadness": 0.615976,
+        "joy": 0.084305,
+        "fear": 0.145386,
+        "disgust": 0.113242,
+        "anger": 0.065848
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "longer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.909812,
+      "emotion": {
+        "sadness": 0.323789,
+        "joy": 0.279645,
+        "fear": 0.150337,
+        "disgust": 0.060239,
+        "anger": 0.086409
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice feeling",
+      "sentiment": {
+        "score": 0.961127,
+        "label": "positive"
+      },
+      "relevance": 0.974277,
+      "emotion": {
+        "sadness": 0.337274,
+        "joy": 0.646823,
+        "fear": 0.014596,
+        "disgust": 0.005555,
+        "anger": 0.016756
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0471"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.751155,
+        "label": "positive"
+      },
+      "relevance": 0.929539,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shine",
+      "sentiment": {
+        "score": 0.940543,
+        "label": "positive"
+      },
+      "relevance": 0.911296,
+      "emotion": {
+        "sadness": 0.236634,
+        "joy": 0.606295,
+        "fear": 0.017833,
+        "disgust": 0.009853,
+        "anger": 0.025034
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.654092,
+        "label": "positive"
+      },
+      "relevance": 0.94062,
+      "emotion": {
+        "sadness": 0.012261,
+        "joy": 0.732326,
+        "fear": 0.026618,
+        "disgust": 0.002061,
+        "anger": 0.006052
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.933588,
+        "label": "positive"
+      },
+      "relevance": 0.930318,
+      "emotion": {
+        "sadness": 0.179634,
+        "joy": 0.777686,
+        "fear": 0.009793,
+        "disgust": 0.002683,
+        "anger": 0.006939
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip glosses",
+      "sentiment": {
+        "score": -0.680475,
+        "label": "negative"
+      },
+      "relevance": 0.936241,
+      "emotion": {
+        "sadness": 0.513102,
+        "joy": 0.145824,
+        "fear": 0.12158,
+        "disgust": 0.128103,
+        "anger": 0.117535
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice shine",
+      "sentiment": {
+        "score": 0.950761,
+        "label": "positive"
+      },
+      "relevance": 0.93444,
+      "emotion": {
+        "sadness": 0.06961,
+        "joy": 0.90538,
+        "fear": 0.004151,
+        "disgust": 0.00097,
+        "anger": 0.006437
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "red color",
+      "sentiment": {
+        "score": 0.581586,
+        "label": "positive"
+      },
+      "relevance": 0.992639,
+      "emotion": {
+        "sadness": 0.033419,
+        "joy": 0.849368,
+        "fear": 0.021864,
+        "disgust": 0.002067,
+        "anger": 0.003997
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 146,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.939705,
+        "label": "positive"
+      },
+      "relevance": 0.997728,
+      "emotion": {
+        "sadness": 0.454042,
+        "joy": 0.205316,
+        "fear": 0.142946,
+        "disgust": 0.059441,
+        "anger": 0.061322
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.95208,
+        "label": "positive"
+      },
+      "relevance": 0.923925,
+      "emotion": {
+        "sadness": 0.111902,
+        "joy": 0.757998,
+        "fear": 0.093527,
+        "disgust": 0.040275,
+        "anger": 0.026448
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shine",
+      "sentiment": {
+        "score": 0.905722,
+        "label": "positive"
+      },
+      "relevance": 0.907137,
+      "emotion": {
+        "sadness": 0.146478,
+        "joy": 0.813344,
+        "fear": 0.005941,
+        "disgust": 0.001969,
+        "anger": 0.008221
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shiny result",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.92318,
+      "emotion": {
+        "sadness": 0.328927,
+        "joy": 0.200783,
+        "fear": 0.094054,
+        "disgust": 0.038693,
+        "anger": 0.117885
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0831"}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0791"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.838988,
+        "label": "positive"
+      },
+      "relevance": 0.966255,
+      "emotion": {
+        "sadness": 0.232886,
+        "joy": 0.361723,
+        "fear": 0.176028,
+        "disgust": 0.117737,
+        "anger": 0.07483
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "summer look",
+      "sentiment": {
+        "score": 0.786578,
+        "label": "positive"
+      },
+      "relevance": 0.906242,
+      "emotion": {
+        "sadness": 0.020217,
+        "joy": 0.869756,
+        "fear": 0.018383,
+        "disgust": 0.002332,
+        "anger": 0.006458
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 184,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good portion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.956925,
+      "emotion": {
+        "sadness": 0.190946,
+        "joy": 0.662759,
+        "fear": 0.041182,
+        "disgust": 0.003307,
+        "anger": 0.007345
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.721404,
+        "label": "positive"
+      },
+      "relevance": 0.9914,
+      "emotion": {
+        "sadness": 0.116082,
+        "joy": 0.238508,
+        "fear": 0.076956,
+        "disgust": 0.027223,
+        "anger": 0.054837
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0871"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "feel",
+      "sentiment": {
+        "score": 0.527497,
+        "label": "positive"
+      },
+      "relevance": 0.973111,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "brush",
+      "sentiment": {
+        "score": 0.896709,
+        "label": "positive"
+      },
+      "relevance": 0.900996,
+      "emotion": {
+        "sadness": 0.043548,
+        "joy": 0.815102,
+        "fear": 0.021755,
+        "disgust": 0.008385,
+        "anger": 0.029872
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sparkles",
+      "sentiment": {
+        "score": 0.871086,
+        "label": "positive"
+      },
+      "relevance": 0.984165,
+      "emotion": {
+        "sadness": 0.0352,
+        "joy": 0.790319,
+        "fear": 0.017274,
+        "disgust": 0.004444,
+        "anger": 0.020033
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "light color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978517,
+      "emotion": {
+        "sadness": 0.049706,
+        "joy": 0.221781,
+        "fear": 0.105491,
+        "disgust": 0.015173,
+        "anger": 0.018741
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "consistency",
+      "sentiment": {
+        "score": 0.834595,
+        "label": "positive"
+      },
+      "relevance": 0.9968,
+      "emotion": {
+        "sadness": 0.145682,
+        "joy": 0.177444,
+        "fear": 0.059554,
+        "disgust": 0.016514,
+        "anger": 0.02417
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.511002,
+        "label": "positive"
+      },
+      "relevance": 0.987377,
+      "emotion": {
+        "sadness": 0.030811,
+        "joy": 0.635409,
+        "fear": 0.025404,
+        "disgust": 0.00197,
+        "anger": 0.005804
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "consistency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.923755,
+      "emotion": {
+        "sadness": 0.245482,
+        "joy": 0.287581,
+        "fear": 0.111372,
+        "disgust": 0.186013,
+        "anger": 0.142558
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "soft look",
+      "sentiment": {
+        "score": 0.817024,
+        "label": "positive"
+      },
+      "relevance": 0.979594,
+      "emotion": {
+        "sadness": 0.083316,
+        "joy": 0.309758,
+        "fear": 0.055846,
+        "disgust": 0.028746,
+        "anger": 0.035259
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shimmer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.962476,
+      "emotion": {
+        "sadness": 0.585337,
+        "joy": 0.172294,
+        "fear": 0.176636,
+        "disgust": 0.03768,
+        "anger": 0.02827
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80c313e75"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.605022,
+        "label": "positive"
+      },
+      "relevance": 0.915052,
+      "emotion": {
+        "sadness": 0.109332,
+        "joy": 0.275274,
+        "fear": 0.053992,
+        "disgust": 0.010541,
+        "anger": 0.018489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.588649,
+        "label": "positive"
+      },
+      "relevance": 0.959942,
+      "emotion": {
+        "sadness": 0.086505,
+        "joy": 0.174076,
+        "fear": 0.071258,
+        "disgust": 0.021964,
+        "anger": 0.055576
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce04f1"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99744,
+      "emotion": {
+        "sadness": 0.353784,
+        "joy": 0.137379,
+        "fear": 0.085346,
+        "disgust": 0.024725,
+        "anger": 0.050073
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0561"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 73,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product was.",
+      "sentiment": {
+        "score": 0.826927,
+        "label": "positive"
+      },
+      "relevance": 0.959045,
+      "emotion": {
+        "sadness": 0.407344,
+        "joy": 0.201119,
+        "fear": 0.085605,
+        "disgust": 0.048565,
+        "anger": 0.03795
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.740977,
+        "label": "positive"
+      },
+      "relevance": 0.917083,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.798017,
+        "label": "positive"
+      },
+      "relevance": 0.99466,
+      "emotion": {
+        "sadness": 0.105955,
+        "joy": 0.240818,
+        "fear": 0.075271,
+        "disgust": 0.028191,
+        "anger": 0.057152
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shimmeryness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy shimmer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.951899,
+      "emotion": {
+        "sadness": 0.611303,
+        "joy": 0.066823,
+        "fear": 0.196916,
+        "disgust": 0.233474,
+        "anger": 0.151177
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.935367,
+        "label": "positive"
+      },
+      "relevance": 0.940672,
+      "emotion": {
+        "sadness": 0.111086,
+        "joy": 0.817328,
+        "fear": 0.062472,
+        "disgust": 0.013423,
+        "anger": 0.008093
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd80bce0641"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.892101,
+        "label": "positive"
+      },
+      "relevance": 0.991561,
+      "emotion": {
+        "sadness": 0.057892,
+        "joy": 0.790186,
+        "fear": 0.041437,
+        "disgust": 0.047924,
+        "anger": 0.025243
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.800603,
+        "label": "positive"
+      },
+      "relevance": 0.957221,
+      "emotion": {
+        "sadness": 0.049013,
+        "joy": 0.710175,
+        "fear": 0.009673,
+        "disgust": 0.246009,
+        "anger": 0.024997
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 141,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.910024,
+      "emotion": {
+        "sadness": 0.303274,
+        "joy": 0.213282,
+        "fear": 0.11629,
+        "disgust": 0.280694,
+        "anger": 0.194503
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 98,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978566,
+      "emotion": {
+        "sadness": 0.200555,
+        "joy": 0.255347,
+        "fear": 0.064607,
+        "disgust": 0.055234,
+        "anger": 0.061471
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.588247,
+        "label": "positive"
+      },
+      "relevance": 0.926124,
+      "emotion": {
+        "sadness": 0.198463,
+        "joy": 0.233512,
+        "fear": 0.065569,
+        "disgust": 0.016904,
+        "anger": 0.017951
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 133,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.929653,
+      "emotion": {
+        "sadness": 0.360996,
+        "joy": 0.365851,
+        "fear": 0.185024,
+        "disgust": 0.105797,
+        "anger": 0.108273
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953707,
+      "emotion": {
+        "sadness": 0.372637,
+        "joy": 0.346428,
+        "fear": 0.100272,
+        "disgust": 0.028026,
+        "anger": 0.03999
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy texture",
+      "sentiment": {
+        "score": 0.817804,
+        "label": "positive"
+      },
+      "relevance": 0.920085,
+      "emotion": {
+        "sadness": 0.095493,
+        "joy": 0.266966,
+        "fear": 0.067686,
+        "disgust": 0.028459,
+        "anger": 0.054089
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.598548,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.598548,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "pink color",
+      "sentiment": {
+        "score": 0.898919,
+        "label": "positive"
+      },
+      "relevance": 0.906039,
+      "emotion": {
+        "sadness": 0.006177,
+        "joy": 0.776337,
+        "fear": 0.020457,
+        "disgust": 0.004957,
+        "anger": 0.025666
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.82866,
+        "label": "positive"
+      },
+      "relevance": 0.933698,
+      "emotion": {
+        "sadness": 0.111086,
+        "joy": 0.817328,
+        "fear": 0.062472,
+        "disgust": 0.013423,
+        "anger": 0.008093
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.677054,
+        "label": "positive"
+      },
+      "relevance": 0.995641,
+      "emotion": {
+        "sadness": 0.152365,
+        "joy": 0.435373,
+        "fear": 0.091381,
+        "disgust": 0.251804,
+        "anger": 0.079479
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 114,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice little shimmer",
+      "sentiment": {
+        "score": 0.924571,
+        "label": "positive"
+      },
+      "relevance": 0.910923,
+      "emotion": {
+        "sadness": 0.139749,
+        "joy": 0.731788,
+        "fear": 0.044944,
+        "disgust": 0.035588,
+        "anger": 0.05211
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shiny applicator",
+      "sentiment": {
+        "score": 0.700551,
+        "label": "positive"
+      },
+      "relevance": 0.983652,
+      "emotion": {
+        "sadness": 0.179871,
+        "joy": 0.229731,
+        "fear": 0.097169,
+        "disgust": 0.087704,
+        "anger": 0.090839
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shade.",
+      "sentiment": {
+        "score": 0.938059,
+        "label": "positive"
+      },
+      "relevance": 0.926823,
+      "emotion": {
+        "sadness": 0.329121,
+        "joy": 0.473051,
+        "fear": 0.037723,
+        "disgust": 0.009335,
+        "anger": 0.026098
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.761475,
+        "label": "positive"
+      },
+      "relevance": 0.976031,
+      "emotion": {
+        "sadness": 0.193146,
+        "joy": 0.432754,
+        "fear": 0.061875,
+        "disgust": 0.152016,
+        "anger": 0.086864
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.988028,
+      "emotion": {
+        "sadness": 0.170396,
+        "joy": 0.15121,
+        "fear": 0.044864,
+        "disgust": 0.011947,
+        "anger": 0.022363
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 116,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice sensation",
+      "sentiment": {
+        "score": 0.889875,
+        "label": "positive"
+      },
+      "relevance": 0.919364,
+      "emotion": {
+        "sadness": 0.074143,
+        "joy": 0.777321,
+        "fear": 0.06583,
+        "disgust": 0.046249,
+        "anger": 0.033533
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.948057,
+      "emotion": {
+        "sadness": 0.221548,
+        "joy": 0.404229,
+        "fear": 0.073215,
+        "disgust": 0.083608,
+        "anger": 0.029848
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 15,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glitter",
+      "sentiment": {
+        "score": 0.76217,
+        "label": "positive"
+      },
+      "relevance": 0.936343,
+      "emotion": {
+        "sadness": 0.163241,
+        "joy": 0.483919,
+        "fear": 0.172237,
+        "disgust": 0.073592,
+        "anger": 0.084686
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.92686,
+        "label": "positive"
+      },
+      "relevance": 0.927135,
+      "emotion": {
+        "sadness": 0.281714,
+        "joy": 0.67489,
+        "fear": 0.022009,
+        "disgust": 0.015258,
+        "anger": 0.018654
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 10,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.714783,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0.149818,
+        "joy": 0.532565,
+        "fear": 0.115212,
+        "disgust": 0.013052,
+        "anger": 0.043843
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.608024,
+        "label": "positive"
+      },
+      "relevance": 0.981132,
+      "emotion": {
+        "sadness": 0.128955,
+        "joy": 0.313659,
+        "fear": 0.117451,
+        "disgust": 0.541771,
+        "anger": 0.028031
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.683441,
+        "label": "positive"
+      },
+      "relevance": 0.994982,
+      "emotion": {
+        "sadness": 0.40304,
+        "joy": 0.540751,
+        "fear": 0.070726,
+        "disgust": 0.010448,
+        "anger": 0.016508
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.773341,
+        "label": "positive"
+      },
+      "relevance": 0.906854,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 14,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 12,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 186,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice red",
+      "sentiment": {
+        "score": 0.443224,
+        "label": "positive"
+      },
+      "relevance": 0.949915,
+      "emotion": {
+        "sadness": 0.077718,
+        "joy": 0.864902,
+        "fear": 0.017325,
+        "disgust": 0.022821,
+        "anger": 0.01767
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 144,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip glosses",
+      "sentiment": {
+        "score": -0.785242,
+        "label": "negative"
+      },
+      "relevance": 0.961195,
+      "emotion": {
+        "sadness": 0.298739,
+        "joy": 0.136364,
+        "fear": 0.176912,
+        "disgust": 0.06124,
+        "anger": 0.081191
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glittery",
+      "sentiment": {
+        "score": 0.806499,
+        "label": "positive"
+      },
+      "relevance": 0.96247,
+      "emotion": {
+        "sadness": 0.264379,
+        "joy": 0.358683,
+        "fear": 0.174821,
+        "disgust": 0.227731,
+        "anger": 0.100921
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd90bce0361"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "bit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.961056,
+      "emotion": {
+        "sadness": 0.250971,
+        "joy": 0.422411,
+        "fear": 0.208884,
+        "disgust": 0.065277,
+        "anger": 0.105662
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 111,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.899986,
+        "label": "positive"
+      },
+      "relevance": 0.992179,
+      "emotion": {
+        "sadness": 0.382663,
+        "joy": 0.571334,
+        "fear": 0.038469,
+        "disgust": 0.00875,
+        "anger": 0.010138
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 104,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.970349,
+      "emotion": {
+        "sadness": 0.200121,
+        "joy": 0.255866,
+        "fear": 0.189151,
+        "disgust": 0.220611,
+        "anger": 0.157783
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.901894,
+        "label": "positive"
+      },
+      "relevance": 0.993149,
+      "emotion": {
+        "sadness": 0.580848,
+        "joy": 0.166484,
+        "fear": 0.175661,
+        "disgust": 0.167949,
+        "anger": 0.085933
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sticky product",
+      "sentiment": {
+        "score": 0.864913,
+        "label": "positive"
+      },
+      "relevance": 0.916683,
+      "emotion": {
+        "sadness": 0.182551,
+        "joy": 0.131721,
+        "fear": 0.053815,
+        "disgust": 0.030847,
+        "anger": 0.028462
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "TH e shading",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.968564,
+      "emotion": {
+        "sadness": 0.095169,
+        "joy": 0.709728,
+        "fear": 0.082657,
+        "disgust": 0.010046,
+        "anger": 0.058178
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sheen",
+      "sentiment": {
+        "score": 0.842381,
+        "label": "positive"
+      },
+      "relevance": 0.916854,
+      "emotion": {
+        "sadness": 0.012669,
+        "joy": 0.854266,
+        "fear": 0.007347,
+        "disgust": 0.001344,
+        "anger": 0.005469
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "taste",
+      "sentiment": {
+        "score": -0.770625,
+        "label": "negative"
+      },
+      "relevance": 0.934389,
+      "emotion": {
+        "sadness": 0.101005,
+        "joy": 0.293543,
+        "fear": 0.020797,
+        "disgust": 0.593472,
+        "anger": 0.051008
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "moisture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.982858,
+      "emotion": {
+        "sadness": 0.039277,
+        "joy": 0.211041,
+        "fear": 0.06529,
+        "disgust": 0.025787,
+        "anger": 0.078072
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good consistency",
+      "sentiment": {
+        "score": 0.776877,
+        "label": "positive"
+      },
+      "relevance": 0.908162,
+      "emotion": {
+        "sadness": 0.062132,
+        "joy": 0.749733,
+        "fear": 0.042645,
+        "disgust": 0.017539,
+        "anger": 0.028585
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "thickness",
+      "sentiment": {
+        "score": 0.655536,
+        "label": "positive"
+      },
+      "relevance": 0.923018,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 100,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": -0.4887,
+        "label": "negative"
+      },
+      "relevance": 0.998406,
+      "emotion": {
+        "sadness": 0.140287,
+        "joy": 0.187448,
+        "fear": 0.04529,
+        "disgust": 0.009105,
+        "anger": 0.01471
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.908355,
+      "emotion": {
+        "sadness": 0.042804,
+        "joy": 0.767733,
+        "fear": 0.044033,
+        "disgust": 0.010566,
+        "anger": 0.025664
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "coverage",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992383,
+      "emotion": {
+        "sadness": 0.397387,
+        "joy": 0.042686,
+        "fear": 0.079396,
+        "disgust": 0.073631,
+        "anger": 0.140002
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "packaging",
+      "sentiment": {
+        "score": 0.897764,
+        "label": "positive"
+      },
+      "relevance": 0.956296,
+      "emotion": {
+        "sadness": 0.029099,
+        "joy": 0.66341,
+        "fear": 0.057851,
+        "disgust": 0.009044,
+        "anger": 0.029657
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "compact tube",
+      "sentiment": {
+        "score": 0.778607,
+        "label": "positive"
+      },
+      "relevance": 0.967269,
+      "emotion": {
+        "sadness": 0.287521,
+        "joy": 0.239058,
+        "fear": 0.149812,
+        "disgust": 0.070013,
+        "anger": 0.191878
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993833,
+      "emotion": {
+        "sadness": 0.037405,
+        "joy": 0.879456,
+        "fear": 0.044777,
+        "disgust": 0.013043,
+        "anger": 0.018583
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "STAYS",
+      "sentiment": {
+        "score": 0.686436,
+        "label": "positive"
+      },
+      "relevance": 0.903215,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glitter",
+      "sentiment": {
+        "score": 0.657831,
+        "label": "positive"
+      },
+      "relevance": 0.93717,
+      "emotion": {
+        "sadness": 0.10994,
+        "joy": 0.239615,
+        "fear": 0.077013,
+        "disgust": 0.027524,
+        "anger": 0.055462
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tube",
+      "sentiment": {
+        "score": 0.493261,
+        "label": "positive"
+      },
+      "relevance": 0.926057,
+      "emotion": {
+        "sadness": 0.287521,
+        "joy": 0.239058,
+        "fear": 0.149812,
+        "disgust": 0.070013,
+        "anger": 0.191878
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 200,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "usual product",
+      "sentiment": {
+        "score": -0.648724,
+        "label": "negative"
+      },
+      "relevance": 0.957572,
+      "emotion": {
+        "sadness": 0.32356,
+        "joy": 0.116889,
+        "fear": 0.09329,
+        "disgust": 0.063437,
+        "anger": 0.074217
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 131,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978501,
+      "emotion": {
+        "sadness": 0.098137,
+        "joy": 0.754199,
+        "fear": 0.019797,
+        "disgust": 0.032557,
+        "anger": 0.012222
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0.631375,
+        "label": "positive"
+      },
+      "relevance": 0.971942,
+      "emotion": {
+        "sadness": 0.036277,
+        "joy": 0.904116,
+        "fear": 0.003673,
+        "disgust": 0.000592,
+        "anger": 0.005198
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 172,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.732232,
+        "label": "positive"
+      },
+      "relevance": 0.959243,
+      "emotion": {
+        "sadness": 0.203477,
+        "joy": 0.246985,
+        "fear": 0.099267,
+        "disgust": 0.142865,
+        "anger": 0.083509
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.774733,
+        "label": "positive"
+      },
+      "relevance": 0.925008,
+      "emotion": {
+        "sadness": 0.073925,
+        "joy": 0.514713,
+        "fear": 0.062726,
+        "disgust": 0.011567,
+        "anger": 0.023971
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "colour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990117,
+      "emotion": {
+        "sadness": 0.080829,
+        "joy": 0.704411,
+        "fear": 0.123607,
+        "disgust": 0.039616,
+        "anger": 0.080428
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.658649,
+        "label": "positive"
+      },
+      "relevance": 0.94062,
+      "emotion": {
+        "sadness": 0.029637,
+        "joy": 0.80825,
+        "fear": 0.015424,
+        "disgust": 0.002696,
+        "anger": 0.001984
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "prestige",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942776,
+      "emotion": {
+        "sadness": 0.097028,
+        "joy": 0.249493,
+        "fear": 0.052262,
+        "disgust": 0.102369,
+        "anger": 0.041905
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Long Lasting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.985068,
+      "emotion": {
+        "sadness": 0.457011,
+        "joy": 0.097948,
+        "fear": 0.090807,
+        "disgust": 0.052114,
+        "anger": 0.072346
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Applicator design",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971515,
+      "emotion": {
+        "sadness": 0.015948,
+        "joy": 0.43098,
+        "fear": 0.124415,
+        "disgust": 0.023809,
+        "anger": 0.049322
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72ccd90bce04c1"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "usual lip gloss",
+      "sentiment": {
+        "score": -0.452229,
+        "label": "negative"
+      },
+      "relevance": 0.917401,
+      "emotion": {
+        "sadness": 0.440226,
+        "joy": 0.176139,
+        "fear": 0.193573,
+        "disgust": 0.120702,
+        "anger": 0.136704
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 183,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips moist",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.939324,
+      "emotion": {
+        "sadness": 0.258742,
+        "joy": 0.3799,
+        "fear": 0.125863,
+        "disgust": 0.154742,
+        "anger": 0.124718
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992459,
+      "emotion": {
+        "sadness": 0.299917,
+        "joy": 0.569217,
+        "fear": 0.058943,
+        "disgust": 0.049184,
+        "anger": 0.054734
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.905947,
+        "label": "positive"
+      },
+      "relevance": 0.973148,
+      "emotion": {
+        "sadness": 0.098999,
+        "joy": 0.654193,
+        "fear": 0.090072,
+        "disgust": 0.023368,
+        "anger": 0.087233
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sticky feeling",
+      "sentiment": {
+        "score": -0.487057,
+        "label": "negative"
+      },
+      "relevance": 0.998585,
+      "emotion": {
+        "sadness": 0.067931,
+        "joy": 0.886525,
+        "fear": 0.016047,
+        "disgust": 0.011699,
+        "anger": 0.005076
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": -0.619914,
+        "label": "negative"
+      },
+      "relevance": 0.980222,
+      "emotion": {
+        "sadness": 0.069898,
+        "joy": 0.738659,
+        "fear": 0.092476,
+        "disgust": 0.006366,
+        "anger": 0.03597
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 136,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "normal lip glosses",
+      "sentiment": {
+        "score": -0.312802,
+        "label": "negative"
+      },
+      "relevance": 0.907044,
+      "emotion": {
+        "sadness": 0.239757,
+        "joy": 0.221852,
+        "fear": 0.285546,
+        "disgust": 0.18632,
+        "anger": 0.096026
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLOR",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.773341,
+        "label": "positive"
+      },
+      "relevance": 0.992383,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "packaging",
+      "sentiment": {
+        "score": 0.54644,
+        "label": "positive"
+      },
+      "relevance": 0.956271,
+      "emotion": {
+        "sadness": 0.050269,
+        "joy": 0.507843,
+        "fear": 0.051797,
+        "disgust": 0.070416,
+        "anger": 0.07962
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.598548,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "favorite color",
+      "sentiment": {
+        "score": 0.649951,
+        "label": "positive"
+      },
+      "relevance": 0.935633,
+      "emotion": {
+        "sadness": 0.016554,
+        "joy": 0.492621,
+        "fear": 0.039009,
+        "disgust": 0.010314,
+        "anger": 0.012421
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "scent",
+      "sentiment": {
+        "score": 0.924878,
+        "label": "positive"
+      },
+      "relevance": 0.931216,
+      "emotion": {
+        "sadness": 0.020144,
+        "joy": 0.798828,
+        "fear": 0.050799,
+        "disgust": 0.031502,
+        "anger": 0.021759
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shimmer",
+      "sentiment": {
+        "score": 0.82845,
+        "label": "positive"
+      },
+      "relevance": 0.941107,
+      "emotion": {
+        "sadness": 0.225797,
+        "joy": 0.446837,
+        "fear": 0.106839,
+        "disgust": 0.205986,
+        "anger": 0.140642
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 130,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.773261,
+        "label": "positive"
+      },
+      "relevance": 0.941006,
+      "emotion": {
+        "sadness": 0.060803,
+        "joy": 0.85589,
+        "fear": 0.019072,
+        "disgust": 0.010891,
+        "anger": 0.020345
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "soft lips",
+      "sentiment": {
+        "score": 0.7981,
+        "label": "positive"
+      },
+      "relevance": 0.922697,
+      "emotion": {
+        "sadness": 0.149226,
+        "joy": 0.599783,
+        "fear": 0.092674,
+        "disgust": 0.082365,
+        "anger": 0.047047
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.919195,
+      "emotion": {
+        "sadness": 0.066859,
+        "joy": 0.162173,
+        "fear": 0.070563,
+        "disgust": 0.009514,
+        "anger": 0.040035
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999364,
+      "emotion": {
+        "sadness": 0.461072,
+        "joy": 0.088745,
+        "fear": 0.095096,
+        "disgust": 0.050178,
+        "anger": 0.068553
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip balm",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.943189,
+      "emotion": {
+        "sadness": 0.231527,
+        "joy": 0.418409,
+        "fear": 0.15107,
+        "disgust": 0.240487,
+        "anger": 0.076108
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glimmer look",
+      "sentiment": {
+        "score": 0.764533,
+        "label": "positive"
+      },
+      "relevance": 0.950573,
+      "emotion": {
+        "sadness": 0.167052,
+        "joy": 0.4522,
+        "fear": 0.120418,
+        "disgust": 0.244941,
+        "anger": 0.050502
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator   shape w/a",
+      "sentiment": {
+        "score": 0.560255,
+        "label": "positive"
+      },
+      "relevance": 0.91878,
+      "emotion": {
+        "sadness": 0.176749,
+        "joy": 0.356723,
+        "fear": 0.098756,
+        "disgust": 0.037404,
+        "anger": 0.143696
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.701195,
+        "label": "positive"
+      },
+      "relevance": 0.99493,
+      "emotion": {
+        "sadness": 0.386991,
+        "joy": 0.277765,
+        "fear": 0.093754,
+        "disgust": 0.029429,
+        "anger": 0.049864
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color result",
+      "sentiment": {
+        "score": 0.931265,
+        "label": "positive"
+      },
+      "relevance": 0.950029,
+      "emotion": {
+        "sadness": 0.030892,
+        "joy": 0.894389,
+        "fear": 0.006148,
+        "disgust": 0.00047,
+        "anger": 0.004061
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901628,
+      "emotion": {
+        "sadness": 0.192942,
+        "joy": 0.384953,
+        "fear": 0.114234,
+        "disgust": 0.085375,
+        "anger": 0.027111
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shading",
+      "sentiment": {
+        "score": 0.659945,
+        "label": "positive"
+      },
+      "relevance": 0.9585,
+      "emotion": {
+        "sadness": 0.270491,
+        "joy": 0.225395,
+        "fear": 0.042973,
+        "disgust": 0.030368,
+        "anger": 0.015491
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.944518,
+      "emotion": {
+        "sadness": 0.143123,
+        "joy": 0.433417,
+        "fear": 0.132631,
+        "disgust": 0.046461,
+        "anger": 0.038288
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 154,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "beautiful color",
+      "sentiment": {
+        "score": 0.861358,
+        "label": "positive"
+      },
+      "relevance": 0.911369,
+      "emotion": {
+        "sadness": 0.032261,
+        "joy": 0.817588,
+        "fear": 0.023766,
+        "disgust": 0.001039,
+        "anger": 0.003928
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.130536,
+        "label": "positive"
+      },
+      "relevance": 0.926772,
+      "emotion": {
+        "sadness": 0.202678,
+        "joy": 0.557337,
+        "fear": 0.107582,
+        "disgust": 0.085084,
+        "anger": 0.053931
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice  texture",
+      "sentiment": {
+        "score": 0.483906,
+        "label": "positive"
+      },
+      "relevance": 0.989573,
+      "emotion": {
+        "sadness": 0.01199,
+        "joy": 0.89483,
+        "fear": 0.011231,
+        "disgust": 0.002159,
+        "anger": 0.008848
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.966871,
+      "emotion": {
+        "sadness": 0.216569,
+        "joy": 0.267158,
+        "fear": 0.081386,
+        "disgust": 0.048742,
+        "anger": 0.035765
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 195,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good portion",
+      "sentiment": {
+        "score": 0.503542,
+        "label": "positive"
+      },
+      "relevance": 0.961894,
+      "emotion": {
+        "sadness": 0.190946,
+        "joy": 0.662759,
+        "fear": 0.041182,
+        "disgust": 0.003307,
+        "anger": 0.007345
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SOFT APPLICATOR",
+      "sentiment": {
+        "score": 0.800875,
+        "label": "positive"
+      },
+      "relevance": 0.948467,
+      "emotion": {
+        "sadness": 0.025433,
+        "joy": 0.9031,
+        "fear": 0.009073,
+        "disgust": 0.008751,
+        "anger": 0.019606
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.869486,
+        "label": "positive"
+      },
+      "relevance": 0.950662,
+      "emotion": {
+        "sadness": 0.120553,
+        "joy": 0.613628,
+        "fear": 0.065353,
+        "disgust": 0.07138,
+        "anger": 0.034056
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "thicker lip glosses",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.97332,
+      "emotion": {
+        "sadness": 0.095605,
+        "joy": 0.766725,
+        "fear": 0.054088,
+        "disgust": 0.036288,
+        "anger": 0.029305
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 120,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip glosses",
+      "sentiment": {
+        "score": -0.495059,
+        "label": "negative"
+      },
+      "relevance": 0.903636,
+      "emotion": {
+        "sadness": 0.510847,
+        "joy": 0.148865,
+        "fear": 0.119595,
+        "disgust": 0.129728,
+        "anger": 0.120869
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.7597,
+        "label": "positive"
+      },
+      "relevance": 0.99493,
+      "emotion": {
+        "sadness": 0.229855,
+        "joy": 0.398647,
+        "fear": 0.086276,
+        "disgust": 0.040598,
+        "anger": 0.054731
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.876449,
+        "label": "positive"
+      },
+      "relevance": 0.992383,
+      "emotion": {
+        "sadness": 0.013585,
+        "joy": 0.855557,
+        "fear": 0.007789,
+        "disgust": 0.001311,
+        "anger": 0.005485
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.842806,
+        "label": "positive"
+      },
+      "relevance": 0.951975,
+      "emotion": {
+        "sadness": 0.121256,
+        "joy": 0.642695,
+        "fear": 0.037105,
+        "disgust": 0.018369,
+        "anger": 0.018094
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 138,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shimmer effect",
+      "sentiment": {
+        "score": 0.810484,
+        "label": "positive"
+      },
+      "relevance": 0.994573,
+      "emotion": {
+        "sadness": 0.070568,
+        "joy": 0.708955,
+        "fear": 0.083141,
+        "disgust": 0.024606,
+        "anger": 0.030411
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.950929,
+        "label": "positive"
+      },
+      "relevance": 0.914122,
+      "emotion": {
+        "sadness": 0.202153,
+        "joy": 0.712233,
+        "fear": 0.024172,
+        "disgust": 0.009465,
+        "anger": 0.018572
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "mylips",
+      "sentiment": {
+        "score": -0.757768,
+        "label": "negative"
+      },
+      "relevance": 0.990817,
+      "emotion": {
+        "sadness": 0.394412,
+        "joy": 0.240914,
+        "fear": 0.173044,
+        "disgust": 0.055103,
+        "anger": 0.071289
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 96,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "light color",
+      "sentiment": {
+        "score": 0.686061,
+        "label": "positive"
+      },
+      "relevance": 0.920142,
+      "emotion": {
+        "sadness": 0.095484,
+        "joy": 0.365215,
+        "fear": 0.114956,
+        "disgust": 0.032156,
+        "anger": 0.027798
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "scent",
+      "sentiment": {
+        "score": -0.30468,
+        "label": "negative"
+      },
+      "relevance": 0.995474,
+      "emotion": {
+        "sadness": 0.206266,
+        "joy": 0.134845,
+        "fear": 0.089531,
+        "disgust": 0.027097,
+        "anger": 0.065797
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "application",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.949365,
+      "emotion": {
+        "sadness": 0.045213,
+        "joy": 0.326665,
+        "fear": 0.009069,
+        "disgust": 0.017901,
+        "anger": 0.024959
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.92493,
+      "emotion": {
+        "sadness": 0.42805,
+        "joy": 0.476942,
+        "fear": 0.048818,
+        "disgust": 0.011754,
+        "anger": 0.013579
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "colors",
+      "sentiment": {
+        "score": 0.643926,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shape",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.959393,
+      "emotion": {
+        "sadness": 0.020101,
+        "joy": 0.266965,
+        "fear": 0.11355,
+        "disgust": 0.035222,
+        "anger": 0.136857
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.480424,
+        "label": "positive"
+      },
+      "relevance": 0.969444,
+      "emotion": {
+        "sadness": 0.139553,
+        "joy": 0.59196,
+        "fear": 0.141971,
+        "disgust": 0.007124,
+        "anger": 0.107647
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "consistency",
+      "sentiment": {
+        "score": 0.817289,
+        "label": "positive"
+      },
+      "relevance": 0.978248,
+      "emotion": {
+        "sadness": 0.17375,
+        "joy": 0.286344,
+        "fear": 0.092497,
+        "disgust": 0.096474,
+        "anger": 0.091108
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "scent",
+      "sentiment": {
+        "score": 0.907496,
+        "label": "positive"
+      },
+      "relevance": 0.952272,
+      "emotion": {
+        "sadness": 0.164519,
+        "joy": 0.326562,
+        "fear": 0.087429,
+        "disgust": 0.088544,
+        "anger": 0.125171
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.909563,
+      "emotion": {
+        "sadness": 0.107896,
+        "joy": 0.803026,
+        "fear": 0.065091,
+        "disgust": 0.018504,
+        "anger": 0.014247
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.929668,
+      "emotion": {
+        "sadness": 0.119539,
+        "joy": 0.637557,
+        "fear": 0.038746,
+        "disgust": 0.040754,
+        "anger": 0.0525
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "application wand",
+      "sentiment": {
+        "score": 0.787268,
+        "label": "positive"
+      },
+      "relevance": 0.902107,
+      "emotion": {
+        "sadness": 0.031544,
+        "joy": 0.634376,
+        "fear": 0.002886,
+        "disgust": 0.012523,
+        "anger": 0.012923
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.675196,
+        "label": "positive"
+      },
+      "relevance": 0.906769,
+      "emotion": {
+        "sadness": 0.015691,
+        "joy": 0.422742,
+        "fear": 0.030854,
+        "disgust": 0.007433,
+        "anger": 0.013414
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.588247,
+        "label": "positive"
+      },
+      "relevance": 0.963486,
+      "emotion": {
+        "sadness": 0.140287,
+        "joy": 0.187448,
+        "fear": 0.04529,
+        "disgust": 0.009105,
+        "anger": 0.01471
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "pink",
+      "sentiment": {
+        "score": 0.491392,
+        "label": "positive"
+      },
+      "relevance": 0.939985,
+      "emotion": {
+        "sadness": 0.016132,
+        "joy": 0.521645,
+        "fear": 0.073693,
+        "disgust": 0.075936,
+        "anger": 0.024097
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.588247,
+        "label": "positive"
+      },
+      "relevance": 0.963486,
+      "emotion": {
+        "sadness": 0.140287,
+        "joy": 0.187448,
+        "fear": 0.04529,
+        "disgust": 0.009105,
+        "anger": 0.01471
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 100,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glittery",
+      "sentiment": {
+        "score": 0.863534,
+        "label": "positive"
+      },
+      "relevance": 0.949792,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smoothness",
+      "sentiment": {
+        "score": 0.801856,
+        "label": "positive"
+      },
+      "relevance": 0.987184,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 14,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": -0.532814,
+        "label": "negative"
+      },
+      "relevance": 0.919899,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 204,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.767184,
+        "label": "positive"
+      },
+      "relevance": 0.991665,
+      "emotion": {
+        "sadness": 0.276393,
+        "joy": 0.411163,
+        "fear": 0.063378,
+        "disgust": 0.027108,
+        "anger": 0.036308
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting shimmer",
+      "sentiment": {
+        "score": 0.663949,
+        "label": "positive"
+      },
+      "relevance": 0.977871,
+      "emotion": {
+        "sadness": 0.650111,
+        "joy": 0.092066,
+        "fear": 0.150365,
+        "disgust": 0.131531,
+        "anger": 0.103648
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "scent",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953816,
+      "emotion": {
+        "sadness": 0.069064,
+        "joy": 0.252366,
+        "fear": 0.089146,
+        "disgust": 0.155731,
+        "anger": 0.190361
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy finish",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942048,
+      "emotion": {
+        "sadness": 0.297899,
+        "joy": 0.581043,
+        "fear": 0.028777,
+        "disgust": 0.026665,
+        "anger": 0.094998
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.797127,
+        "label": "positive"
+      },
+      "relevance": 0.958806,
+      "emotion": {
+        "sadness": 0.30815,
+        "joy": 0.472174,
+        "fear": 0.1492,
+        "disgust": 0.116585,
+        "anger": 0.053394
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 108,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.79315,
+        "label": "positive"
+      },
+      "relevance": 0.90782,
+      "emotion": {
+        "sadness": 0.274049,
+        "joy": 0.348772,
+        "fear": 0.119305,
+        "disgust": 0.130384,
+        "anger": 0.071717
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 98,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glossy effect",
+      "sentiment": {
+        "score": 0.741009,
+        "label": "positive"
+      },
+      "relevance": 0.909312,
+      "emotion": {
+        "sadness": 0.183942,
+        "joy": 0.152515,
+        "fear": 0.12615,
+        "disgust": 0.009389,
+        "anger": 0.021606
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 101,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.773341,
+        "label": "positive"
+      },
+      "relevance": 0.963948,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccdd0c886b21"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 167,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "w/e",
+      "sentiment": {
+        "score": 0.220954,
+        "label": "positive"
+      },
+      "relevance": 0.986574,
+      "emotion": {
+        "sadness": 0.126836,
+        "joy": 0.137387,
+        "fear": 0.080166,
+        "disgust": 0.047798,
+        "anger": 0.063282
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice color",
+      "sentiment": {
+        "score": 0.903048,
+        "label": "positive"
+      },
+      "relevance": 0.914631,
+      "emotion": {
+        "sadness": 0.015525,
+        "joy": 0.787918,
+        "fear": 0.015537,
+        "disgust": 0.002374,
+        "anger": 0.011007
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 107,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SOFT APPLICATOR.Also",
+      "sentiment": {
+        "score": 0.624936,
+        "label": "positive"
+      },
+      "relevance": 0.963596,
+      "emotion": {
+        "sadness": 0.029023,
+        "joy": 0.816759,
+        "fear": 0.027926,
+        "disgust": 0.006991,
+        "anger": 0.016892
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 137,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good shape",
+      "sentiment": {
+        "score": 0.874297,
+        "label": "positive"
+      },
+      "relevance": 0.974131,
+      "emotion": {
+        "sadness": 0.089624,
+        "joy": 0.710714,
+        "fear": 0.020612,
+        "disgust": 0.004751,
+        "anger": 0.015193
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "applicator",
+      "sentiment": {
+        "score": 0.721207,
+        "label": "positive"
+      },
+      "relevance": 0.99694,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.790205,
+        "label": "positive"
+      },
+      "relevance": 0.982032,
+      "emotion": {
+        "sadness": 0.288534,
+        "joy": 0.596403,
+        "fear": 0.037557,
+        "disgust": 0.02112,
+        "anger": 0.029967
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.773341,
+        "label": "positive"
+      },
+      "relevance": 0.992383,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "retouch",
+      "sentiment": {
+        "score": -0.678024,
+        "label": "negative"
+      },
+      "relevance": 0.908863,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.179551,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.088473
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccdd0c886ac1"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.854726,
+        "label": "positive"
+      },
+      "relevance": 0.975314,
+      "emotion": {
+        "sadness": 0.236738,
+        "joy": 0.644558,
+        "fear": 0.027576,
+        "disgust": 0.030655,
+        "anger": 0.046271
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 119,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "test product",
+      "sentiment": {
+        "score": 0.960384,
+        "label": "positive"
+      },
+      "relevance": 0.900402,
+      "emotion": {
+        "sadness": 0.07954,
+        "joy": 0.844467,
+        "fear": 0.045948,
+        "disgust": 0.008809,
+        "anger": 0.005811
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccdd0c8869d1"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fullness",
+      "sentiment": {
+        "score": 0.879645,
+        "label": "positive"
+      },
+      "relevance": 0.982173,
+      "emotion": {
+        "sadness": 0.119674,
+        "joy": 0.684811,
+        "fear": 0.055762,
+        "disgust": 0.088109,
+        "anger": 0.099786
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccdd0c886af1"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.82042,
+        "label": "positive"
+      },
+      "relevance": 0.941544,
+      "emotion": {
+        "sadness": 0.186447,
+        "joy": 0.499335,
+        "fear": 0.11776,
+        "disgust": 0.188035,
+        "anger": 0.084254
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice color",
+      "sentiment": {
+        "score": 0.672153,
+        "label": "positive"
+      },
+      "relevance": 0.914631,
+      "emotion": {
+        "sadness": 0.015886,
+        "joy": 0.784401,
+        "fear": 0.015881,
+        "disgust": 0.002345,
+        "anger": 0.010718
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": -0.369347,
+        "label": "negative"
+      },
+      "relevance": 0.947473,
+      "emotion": {
+        "sadness": 0.208023,
+        "joy": 0.273094,
+        "fear": 0.151995,
+        "disgust": 0.156878,
+        "anger": 0.100654
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ease",
+      "sentiment": {
+        "score": 0.683864,
+        "label": "positive"
+      },
+      "relevance": 0.921722,
+      "emotion": {
+        "sadness": 0.258703,
+        "joy": 0.240615,
+        "fear": 0.272957,
+        "disgust": 0.060289,
+        "anger": 0.083662
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shineiness",
+      "sentiment": {
+        "score": 0.731395,
+        "label": "positive"
+      },
+      "relevance": 0.976428,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.811622,
+        "label": "positive"
+      },
+      "relevance": 0.995339,
+      "emotion": {
+        "sadness": 0.239003,
+        "joy": 0.619213,
+        "fear": 0.044307,
+        "disgust": 0.080712,
+        "anger": 0.037329
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "iridescent shine",
+      "sentiment": {
+        "score": 0.967836,
+        "label": "positive"
+      },
+      "relevance": 0.965835,
+      "emotion": {
+        "sadness": 0.050947,
+        "joy": 0.821162,
+        "fear": 0.009496,
+        "disgust": 0.004063,
+        "anger": 0.014968
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Color",
+      "sentiment": {
+        "score": 0.409329,
+        "label": "positive"
+      },
+      "relevance": 0.919195,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0.887995,
+        "label": "positive"
+      },
+      "relevance": 0.929539,
+      "emotion": {
+        "sadness": 0.244288,
+        "joy": 0.598382,
+        "fear": 0.01996,
+        "disgust": 0.01008,
+        "anger": 0.025458
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72ccdd0cd1bac9"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 106,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "coverage.",
+      "sentiment": {
+        "score": 0.508561,
+        "label": "positive"
+      },
+      "relevance": 0.95906,
+      "emotion": {
+        "sadness": 0.220516,
+        "joy": 0.564707,
+        "fear": 0.080078,
+        "disgust": 0.064458,
+        "anger": 0.070188
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.909164,
+      "emotion": {
+        "sadness": 0.164103,
+        "joy": 0.294015,
+        "fear": 0.088425,
+        "disgust": 0.096921,
+        "anger": 0.091159
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.968346,
+      "emotion": {
+        "sadness": 0.342833,
+        "joy": 0.447957,
+        "fear": 0.051103,
+        "disgust": 0.028427,
+        "anger": 0.016725
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 143,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.907585,
+        "label": "positive"
+      },
+      "relevance": 0.962554,
+      "emotion": {
+        "sadness": 0.170947,
+        "joy": 0.773893,
+        "fear": 0.021051,
+        "disgust": 0.021859,
+        "anger": 0.023442
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 107,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "pleasant scent",
+      "sentiment": {
+        "score": 0.79753,
+        "label": "positive"
+      },
+      "relevance": 0.914766,
+      "emotion": {
+        "sadness": 0.031924,
+        "joy": 0.386374,
+        "fear": 0.062005,
+        "disgust": 0.10718,
+        "anger": 0.043405
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0.611568,
+        "label": "positive"
+      },
+      "relevance": 0.915271,
+      "emotion": {
+        "sadness": 0.112861,
+        "joy": 0.750534,
+        "fear": 0.018904,
+        "disgust": 0.012067,
+        "anger": 0.012261
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.918051,
+      "emotion": {
+        "sadness": 0.228037,
+        "joy": 0.465912,
+        "fear": 0.14882,
+        "disgust": 0.075803,
+        "anger": 0.026782
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 127,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.91438,
+        "label": "positive"
+      },
+      "relevance": 0.997382,
+      "emotion": {
+        "sadness": 0.157463,
+        "joy": 0.687691,
+        "fear": 0.15193,
+        "disgust": 0.010585,
+        "anger": 0.024609
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.657328,
+        "label": "positive"
+      },
+      "relevance": 0.988606,
+      "emotion": {
+        "sadness": 0.120148,
+        "joy": 0.346601,
+        "fear": 0.052067,
+        "disgust": 0.007546,
+        "anger": 0.008317
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.432335,
+        "label": "positive"
+      },
+      "relevance": 0.913901,
+      "emotion": {
+        "sadness": 0.0315,
+        "joy": 0.704647,
+        "fear": 0.112074,
+        "disgust": 0.004372,
+        "anger": 0.063481
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.438365,
+        "label": "positive"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.614557,
+        "label": "positive"
+      },
+      "relevance": 0.974039,
+      "emotion": {
+        "sadness": 0.259325,
+        "joy": 0.313135,
+        "fear": 0.20539,
+        "disgust": 0.258351,
+        "anger": 0.093647
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fairly long time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95531,
+      "emotion": {
+        "sadness": 0.416494,
+        "joy": 0.299977,
+        "fear": 0.084203,
+        "disgust": 0.091461,
+        "anger": 0.247052
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 134,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth silky feel",
+      "sentiment": {
+        "score": 0.892943,
+        "label": "positive"
+      },
+      "relevance": 0.953489,
+      "emotion": {
+        "sadness": 0.322187,
+        "joy": 0.358091,
+        "fear": 0.070324,
+        "disgust": 0.012121,
+        "anger": 0.003729
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "big sponge",
+      "sentiment": {
+        "score": 0.690617,
+        "label": "positive"
+      },
+      "relevance": 0.917856,
+      "emotion": {
+        "sadness": 0.217902,
+        "joy": 0.297578,
+        "fear": 0.187398,
+        "disgust": 0.135156,
+        "anger": 0.076839
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "TEXTURE",
+      "sentiment": {
+        "score": 0.809522,
+        "label": "positive"
+      },
+      "relevance": 0.996243,
+      "emotion": {
+        "sadness": 0.11015,
+        "joy": 0.536449,
+        "fear": 0.068178,
+        "disgust": 0.076791,
+        "anger": 0.074336
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "increase",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99492,
+      "emotion": {
+        "sadness": 0.337197,
+        "joy": 0.277931,
+        "fear": 0.140685,
+        "disgust": 0.014971,
+        "anger": 0.066198
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.654049,
+        "label": "positive"
+      },
+      "relevance": 0.94062,
+      "emotion": {
+        "sadness": 0.015886,
+        "joy": 0.784401,
+        "fear": 0.015881,
+        "disgust": 0.002345,
+        "anger": 0.010718
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shine",
+      "sentiment": {
+        "score": 0.835425,
+        "label": "positive"
+      },
+      "relevance": 0.9712,
+      "emotion": {
+        "sadness": 0.214543,
+        "joy": 0.703886,
+        "fear": 0.024744,
+        "disgust": 0.009757,
+        "anger": 0.053859
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72cce70cd1b919"}

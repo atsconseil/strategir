@@ -1,0 +1,6394 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 181,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shine watery result",
+      "sentiment": {
+        "score": 0.997227,
+        "label": "positive"
+      },
+      "relevance": 0.942928,
+      "emotion": {
+        "sadness": 0.1316,
+        "joy": 0.792265,
+        "fear": 0.034323,
+        "disgust": 0.02636,
+        "anger": 0.014352
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "minimal effort",
+      "sentiment": {
+        "score": 0.656748,
+        "label": "positive"
+      },
+      "relevance": 0.931382,
+      "emotion": {
+        "sadness": 0.63033,
+        "joy": 0.175711,
+        "fear": 0.079798,
+        "disgust": 0.16095,
+        "anger": 0.090687
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nourishing affect. jojoba",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.935322,
+      "emotion": {
+        "sadness": 0.238365,
+        "joy": 0.188505,
+        "fear": 0.111539,
+        "disgust": 0.140139,
+        "anger": 0.065876
+      }
+    }
+  ]
+}{"code":400,"error":"invalid request: content is empty","x-global-transaction-id":"683fc2df5a72cdbd0b11a42d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992576,
+      "emotion": {
+        "sadness": 0.604938,
+        "joy": 0.080266,
+        "fear": 0.23639,
+        "disgust": 0.197796,
+        "anger": 0.11154
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great lipgloss",
+      "sentiment": {
+        "score": 0.671744,
+        "label": "positive"
+      },
+      "relevance": 0.93867,
+      "emotion": {
+        "sadness": 0.043577,
+        "joy": 0.740931,
+        "fear": 0.050559,
+        "disgust": 0.026645,
+        "anger": 0.027305
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.977556,
+      "emotion": {
+        "sadness": 0.441708,
+        "joy": 0.227652,
+        "fear": 0.20657,
+        "disgust": 0.216697,
+        "anger": 0.104086
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tasty jelly gloss",
+      "sentiment": {
+        "score": 0.890952,
+        "label": "positive"
+      },
+      "relevance": 0.92546,
+      "emotion": {
+        "sadness": 0.064248,
+        "joy": 0.422189,
+        "fear": 0.021506,
+        "disgust": 0.029237,
+        "anger": 0.031122
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "idea volumizing",
+      "sentiment": {
+        "score": 0.790633,
+        "label": "positive"
+      },
+      "relevance": 0.923487,
+      "emotion": {
+        "sadness": 0.168529,
+        "joy": 0.541943,
+        "fear": 0.111447,
+        "disgust": 0.15164,
+        "anger": 0.06809
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 116,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.77037,
+        "label": "positive"
+      },
+      "relevance": 0.984935,
+      "emotion": {
+        "sadness": 0.050083,
+        "joy": 0.642651,
+        "fear": 0.07894,
+        "disgust": 0.016369,
+        "anger": 0.054203
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.633267,
+        "label": "positive"
+      },
+      "relevance": 0.949026,
+      "emotion": {
+        "sadness": 0.377526,
+        "joy": 0.219585,
+        "fear": 0.150118,
+        "disgust": 0.020478,
+        "anger": 0.01034
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth glide",
+      "sentiment": {
+        "score": 0.864904,
+        "label": "positive"
+      },
+      "relevance": 0.966616,
+      "emotion": {
+        "sadness": 0.183962,
+        "joy": 0.552337,
+        "fear": 0.079078,
+        "disgust": 0.039995,
+        "anger": 0.062916
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new applicator",
+      "sentiment": {
+        "score": 0.437683,
+        "label": "positive"
+      },
+      "relevance": 0.910371,
+      "emotion": {
+        "sadness": 0.223891,
+        "joy": 0.498327,
+        "fear": 0.201696,
+        "disgust": 0.112317,
+        "anger": 0.051114
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 15,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "beneficial product",
+      "sentiment": {
+        "score": 0.821506,
+        "label": "positive"
+      },
+      "relevance": 0.994874,
+      "emotion": {
+        "sadness": 0.132083,
+        "joy": 0.419766,
+        "fear": 0.045242,
+        "disgust": 0.021365,
+        "anger": 0.018282
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.938879,
+      "emotion": {
+        "sadness": 0.116372,
+        "joy": 0.083952,
+        "fear": 0.029919,
+        "disgust": 0.063576,
+        "anger": 0.141901
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLORS",
+      "sentiment": {
+        "score": 0.770315,
+        "label": "positive"
+      },
+      "relevance": 0.926823,
+      "emotion": {
+        "sadness": 0.067043,
+        "joy": 0.821958,
+        "fear": 0.02447,
+        "disgust": 0.004516,
+        "anger": 0.024012
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 200,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aloe Active Ingredient",
+      "sentiment": {
+        "score": 0.566893,
+        "label": "positive"
+      },
+      "relevance": 0.914707,
+      "emotion": {
+        "sadness": 0.020085,
+        "joy": 0.740944,
+        "fear": 0.038372,
+        "disgust": 0.017415,
+        "anger": 0.020019
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "effortless ease",
+      "sentiment": {
+        "score": 0.956204,
+        "label": "positive"
+      },
+      "relevance": 0.968409,
+      "emotion": {
+        "sadness": 0.077186,
+        "joy": 0.309624,
+        "fear": 0.041954,
+        "disgust": 0.030036,
+        "anger": 0.018964
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "packaging",
+      "sentiment": {
+        "score": 0.789165,
+        "label": "positive"
+      },
+      "relevance": 0.906854,
+      "emotion": {
+        "sadness": 0.037157,
+        "joy": 0.19586,
+        "fear": 0.094039,
+        "disgust": 0.060041,
+        "anger": 0.132658
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.436103,
+        "label": "positive"
+      },
+      "relevance": 0.94062,
+      "emotion": {
+        "sadness": 0.259983,
+        "joy": 0.199092,
+        "fear": 0.037121,
+        "disgust": 0.02168,
+        "anger": 0.055466
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative jelly gloss",
+      "sentiment": {
+        "score": 0.725801,
+        "label": "positive"
+      },
+      "relevance": 0.917996,
+      "emotion": {
+        "sadness": 0.190965,
+        "joy": 0.462667,
+        "fear": 0.071866,
+        "disgust": 0.082694,
+        "anger": 0.069935
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural ingredients",
+      "sentiment": {
+        "score": 0.571454,
+        "label": "positive"
+      },
+      "relevance": 0.975403,
+      "emotion": {
+        "sadness": 0.069439,
+        "joy": 0.515419,
+        "fear": 0.05726,
+        "disgust": 0.048771,
+        "anger": 0.018431
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.975051,
+      "emotion": {
+        "sadness": 0.191558,
+        "joy": 0.456762,
+        "fear": 0.126585,
+        "disgust": 0.113824,
+        "anger": 0.065198
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.823806,
+        "label": "positive"
+      },
+      "relevance": 0.951698,
+      "emotion": {
+        "sadness": 0.120296,
+        "joy": 0.459601,
+        "fear": 0.04694,
+        "disgust": 0.032287,
+        "anger": 0.029306
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.580819,
+        "label": "positive"
+      },
+      "relevance": 0.978984,
+      "emotion": {
+        "sadness": 0.221745,
+        "joy": 0.199512,
+        "fear": 0.061045,
+        "disgust": 0.043309,
+        "anger": 0.031491
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great results",
+      "sentiment": {
+        "score": 0.841026,
+        "label": "positive"
+      },
+      "relevance": 0.971162,
+      "emotion": {
+        "sadness": 0.029021,
+        "joy": 0.844366,
+        "fear": 0.029964,
+        "disgust": 0.011678,
+        "anger": 0.033018
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 143,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.943674,
+        "label": "positive"
+      },
+      "relevance": 0.991802,
+      "emotion": {
+        "sadness": 0.195614,
+        "joy": 0.384286,
+        "fear": 0.13632,
+        "disgust": 0.055958,
+        "anger": 0.048278
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": -0.774247,
+        "label": "negative"
+      },
+      "relevance": 0.992486,
+      "emotion": {
+        "sadness": 0.09542,
+        "joy": 0.787979,
+        "fear": 0.032729,
+        "disgust": 0.054381,
+        "anger": 0.01058
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.606677,
+        "label": "positive"
+      },
+      "relevance": 0.986054,
+      "emotion": {
+        "sadness": 0.295339,
+        "joy": 0.464405,
+        "fear": 0.095026,
+        "disgust": 0.113927,
+        "anger": 0.080214
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbd0b11a34d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delicious jelly texture",
+      "sentiment": {
+        "score": 0.980063,
+        "label": "positive"
+      },
+      "relevance": 0.948939,
+      "emotion": {
+        "sadness": 0.270284,
+        "joy": 0.615189,
+        "fear": 0.073053,
+        "disgust": 0.047568,
+        "anger": 0.026935
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss",
+      "sentiment": {
+        "score": 0.832,
+        "label": "positive"
+      },
+      "relevance": 0.974928,
+      "emotion": {
+        "sadness": 0.122163,
+        "joy": 0.525691,
+        "fear": 0.215556,
+        "disgust": 0.038927,
+        "anger": 0.055244
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.822208,
+        "label": "positive"
+      },
+      "relevance": 0.962803,
+      "emotion": {
+        "sadness": 0.117669,
+        "joy": 0.33601,
+        "fear": 0.05118,
+        "disgust": 0.025491,
+        "anger": 0.028466
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.906769,
+      "emotion": {
+        "sadness": 0.270029,
+        "joy": 0.095345,
+        "fear": 0.040256,
+        "disgust": 0.034891,
+        "anger": 0.019789
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good applicator",
+      "sentiment": {
+        "score": 0.794289,
+        "label": "positive"
+      },
+      "relevance": 0.936522,
+      "emotion": {
+        "sadness": 0.02618,
+        "joy": 0.938622,
+        "fear": 0.019572,
+        "disgust": 0.002561,
+        "anger": 0.007994
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "non watery",
+      "sentiment": {
+        "score": 0.621872,
+        "label": "positive"
+      },
+      "relevance": 0.944211,
+      "emotion": {
+        "sadness": 0.525423,
+        "joy": 0.091543,
+        "fear": 0.221866,
+        "disgust": 0.303658,
+        "anger": 0.086133
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 159,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.871541,
+        "label": "positive"
+      },
+      "relevance": 0.991634,
+      "emotion": {
+        "sadness": 0.038149,
+        "joy": 0.910824,
+        "fear": 0.030963,
+        "disgust": 0.00988,
+        "anger": 0.006382
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "time",
+      "sentiment": {
+        "score": 0.83987,
+        "label": "positive"
+      },
+      "relevance": 0.981348,
+      "emotion": {
+        "sadness": 0.070143,
+        "joy": 0.752369,
+        "fear": 0.04426,
+        "disgust": 0.043256,
+        "anger": 0.034443
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 148,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "moisture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.931988,
+      "emotion": {
+        "sadness": 0.443395,
+        "joy": 0.304972,
+        "fear": 0.187995,
+        "disgust": 0.018012,
+        "anger": 0.039759
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 132,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth product",
+      "sentiment": {
+        "score": 0.812057,
+        "label": "positive"
+      },
+      "relevance": 0.95884,
+      "emotion": {
+        "sadness": 0.123487,
+        "joy": 0.425424,
+        "fear": 0.284963,
+        "disgust": 0.033055,
+        "anger": 0.011288
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "luxury",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.976125,
+      "emotion": {
+        "sadness": 0.515464,
+        "joy": 0.270577,
+        "fear": 0.197568,
+        "disgust": 0.065898,
+        "anger": 0.037704
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting",
+      "sentiment": {
+        "score": 0.616398,
+        "label": "positive"
+      },
+      "relevance": 0.901681,
+      "emotion": {
+        "sadness": 0.404776,
+        "joy": 0.103916,
+        "fear": 0.096714,
+        "disgust": 0.054068,
+        "anger": 0.071811
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "word",
+      "sentiment": {
+        "score": 0.912773,
+        "label": "positive"
+      },
+      "relevance": 0.939145,
+      "emotion": {
+        "sadness": 0.108077,
+        "joy": 0.674812,
+        "fear": 0.046618,
+        "disgust": 0.111352,
+        "anger": 0.089386
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 121,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glide-on application",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.933869,
+      "emotion": {
+        "sadness": 0.179937,
+        "joy": 0.152755,
+        "fear": 0.028306,
+        "disgust": 0.031619,
+        "anger": 0.029177
+      }
+    }
+  ]
+}{"code":400,"error":"invalid request: content is empty","x-global-transaction-id":"683fc2df5a72cdbe0b11aa0d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting product",
+      "sentiment": {
+        "score": 0.879294,
+        "label": "positive"
+      },
+      "relevance": 0.900376,
+      "emotion": {
+        "sadness": 0.306276,
+        "joy": 0.440154,
+        "fear": 0.063665,
+        "disgust": 0.016527,
+        "anger": 0.026378
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting",
+      "sentiment": {
+        "score": 0.811881,
+        "label": "positive"
+      },
+      "relevance": 0.989251,
+      "emotion": {
+        "sadness": 0.431219,
+        "joy": 0.140933,
+        "fear": 0.098317,
+        "disgust": 0.067061,
+        "anger": 0.076352
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 130,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fun way.",
+      "sentiment": {
+        "score": 0.990074,
+        "label": "positive"
+      },
+      "relevance": 0.924,
+      "emotion": {
+        "sadness": 0.103854,
+        "joy": 0.822287,
+        "fear": 0.046539,
+        "disgust": 0.02483,
+        "anger": 0.012031
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "soften lips",
+      "sentiment": {
+        "score": 0.660939,
+        "label": "positive"
+      },
+      "relevance": 0.91835,
+      "emotion": {
+        "sadness": 0.217381,
+        "joy": 0.37475,
+        "fear": 0.181595,
+        "disgust": 0.155948,
+        "anger": 0.02387
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.77519,
+        "label": "positive"
+      },
+      "relevance": 0.912406,
+      "emotion": {
+        "sadness": 0.250581,
+        "joy": 0.521922,
+        "fear": 0.135934,
+        "disgust": 0.038436,
+        "anger": 0.110473
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative makeup advances",
+      "sentiment": {
+        "score": 0.944361,
+        "label": "positive"
+      },
+      "relevance": 0.999922,
+      "emotion": {
+        "sadness": 0.05942,
+        "joy": 0.89978,
+        "fear": 0.009515,
+        "disgust": 0.013204,
+        "anger": 0.003091
+      }
+    }
+  ]
+}{"code":400,"error":"invalid request: content is empty","x-global-transaction-id":"683fc2df5a72cdbe0b11a28d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 120,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color choices",
+      "sentiment": {
+        "score": 0.757356,
+        "label": "positive"
+      },
+      "relevance": 0.994522,
+      "emotion": {
+        "sadness": 0.123291,
+        "joy": 0.411046,
+        "fear": 0.087553,
+        "disgust": 0.038982,
+        "anger": 0.037844
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 15,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "different colors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.975259,
+      "emotion": {
+        "sadness": 0.167952,
+        "joy": 0.122713,
+        "fear": 0.01609,
+        "disgust": 0.018657,
+        "anger": 0.012643
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.629369,
+        "label": "positive"
+      },
+      "relevance": 0.906513,
+      "emotion": {
+        "sadness": 0.056322,
+        "joy": 0.445806,
+        "fear": 0.046822,
+        "disgust": 0.064707,
+        "anger": 0.153603
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural products.",
+      "sentiment": {
+        "score": 0.795959,
+        "label": "positive"
+      },
+      "relevance": 0.965119,
+      "emotion": {
+        "sadness": 0.191978,
+        "joy": 0.331348,
+        "fear": 0.039486,
+        "disgust": 0.112995,
+        "anger": 0.034047
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic aloe ingredient",
+      "sentiment": {
+        "score": 0.580617,
+        "label": "positive"
+      },
+      "relevance": 0.947418,
+      "emotion": {
+        "sadness": 0.115073,
+        "joy": 0.471738,
+        "fear": 0.146494,
+        "disgust": 0.141915,
+        "anger": 0.095328
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.916502,
+      "emotion": {
+        "sadness": 0.364526,
+        "joy": 0.382122,
+        "fear": 0.062535,
+        "disgust": 0.009885,
+        "anger": 0.023221
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "WATERY RESULTS DESCRIPTION",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.936682,
+      "emotion": {
+        "sadness": 0.042208,
+        "joy": 0.792878,
+        "fear": 0.020327,
+        "disgust": 0.041318,
+        "anger": 0.086259
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth glide",
+      "sentiment": {
+        "score": 0.909955,
+        "label": "positive"
+      },
+      "relevance": 0.91261,
+      "emotion": {
+        "sadness": 0.105301,
+        "joy": 0.590438,
+        "fear": 0.052459,
+        "disgust": 0.03024,
+        "anger": 0.042812
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.447684,
+        "label": "positive"
+      },
+      "relevance": 0.992247,
+      "emotion": {
+        "sadness": 0.202852,
+        "joy": 0.20184,
+        "fear": 0.030946,
+        "disgust": 0.066987,
+        "anger": 0.052112
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.710523,
+        "label": "positive"
+      },
+      "relevance": 0.941531,
+      "emotion": {
+        "sadness": 0.120453,
+        "joy": 0.329363,
+        "fear": 0.05218,
+        "disgust": 0.025383,
+        "anger": 0.027086
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly texture",
+      "sentiment": {
+        "score": 0.858211,
+        "label": "positive"
+      },
+      "relevance": 0.995386,
+      "emotion": {
+        "sadness": 0.099197,
+        "joy": 0.424414,
+        "fear": 0.112928,
+        "disgust": 0.030382,
+        "anger": 0.077849
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "unique looks",
+      "sentiment": {
+        "score": 0.881828,
+        "label": "positive"
+      },
+      "relevance": 0.960698,
+      "emotion": {
+        "sadness": 0.066648,
+        "joy": 0.737604,
+        "fear": 0.139905,
+        "disgust": 0.025601,
+        "anger": 0.045629
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 131,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic oil",
+      "sentiment": {
+        "score": 0.854923,
+        "label": "positive"
+      },
+      "relevance": 0.957394,
+      "emotion": {
+        "sadness": 0.050807,
+        "joy": 0.812182,
+        "fear": 0.052377,
+        "disgust": 0.044168,
+        "anger": 0.020267
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11ac2d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "effortless ease",
+      "sentiment": {
+        "score": 0.97598,
+        "label": "positive"
+      },
+      "relevance": 0.970401,
+      "emotion": {
+        "sadness": 0.20323,
+        "joy": 0.344695,
+        "fear": 0.059826,
+        "disgust": 0.064591,
+        "anger": 0.03858
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic waxes",
+      "sentiment": {
+        "score": 0.718566,
+        "label": "positive"
+      },
+      "relevance": 0.917684,
+      "emotion": {
+        "sadness": 0.068055,
+        "joy": 0.584352,
+        "fear": 0.059594,
+        "disgust": 0.040079,
+        "anger": 0.015891
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nourishing ingredients",
+      "sentiment": {
+        "score": 0.675288,
+        "label": "positive"
+      },
+      "relevance": 0.94637,
+      "emotion": {
+        "sadness": 0.212031,
+        "joy": 0.262888,
+        "fear": 0.045247,
+        "disgust": 0.095,
+        "anger": 0.035326
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ingredients",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.94582,
+      "emotion": {
+        "sadness": 0.167476,
+        "joy": 0.116886,
+        "fear": 0.035049,
+        "disgust": 0.088293,
+        "anger": 0.127876
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 106,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new sensorial applicator",
+      "sentiment": {
+        "score": 0.974686,
+        "label": "positive"
+      },
+      "relevance": 0.972957,
+      "emotion": {
+        "sadness": 0.09148,
+        "joy": 0.469774,
+        "fear": 0.047932,
+        "disgust": 0.028965,
+        "anger": 0.022967
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 149,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great things",
+      "sentiment": {
+        "score": 0.979481,
+        "label": "positive"
+      },
+      "relevance": 0.980929,
+      "emotion": {
+        "sadness": 0.081593,
+        "joy": 0.807515,
+        "fear": 0.092348,
+        "disgust": 0.020557,
+        "anger": 0.012867
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "non",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971857,
+      "emotion": {
+        "sadness": 0.298372,
+        "joy": 0.112924,
+        "fear": 0.199912,
+        "disgust": 0.129678,
+        "anger": 0.08915
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.916215,
+      "emotion": {
+        "sadness": 0.236522,
+        "joy": 0.092271,
+        "fear": 0.040814,
+        "disgust": 0.014763,
+        "anger": 0.010723
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "LIPS",
+      "sentiment": {
+        "score": 0.873498,
+        "label": "positive"
+      },
+      "relevance": 0.980687,
+      "emotion": {
+        "sadness": 0.53557,
+        "joy": 0.060436,
+        "fear": 0.189156,
+        "disgust": 0.272605,
+        "anger": 0.214973
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "DESCRIPTION",
+      "sentiment": {
+        "score": 0.555069,
+        "label": "positive"
+      },
+      "relevance": 0.998999,
+      "emotion": {
+        "sadness": 0.25203,
+        "joy": 0.358302,
+        "fear": 0.095554,
+        "disgust": 0.154424,
+        "anger": 0.157605
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11acfd"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SMOOTHING",
+      "sentiment": {
+        "score": 0.696679,
+        "label": "positive"
+      },
+      "relevance": 0.975595,
+      "emotion": {
+        "sadness": 0.299421,
+        "joy": 0.229178,
+        "fear": 0.194137,
+        "disgust": 0.214205,
+        "anger": 0.287174
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 149,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Spherical glass beads",
+      "sentiment": {
+        "score": 0.722288,
+        "label": "positive"
+      },
+      "relevance": 0.960914,
+      "emotion": {
+        "sadness": 0.050004,
+        "joy": 0.812245,
+        "fear": 0.023891,
+        "disgust": 0.032328,
+        "anger": 0.029325
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic ingredients",
+      "sentiment": {
+        "score": 0.849048,
+        "label": "positive"
+      },
+      "relevance": 0.90912,
+      "emotion": {
+        "sadness": 0.062927,
+        "joy": 0.544392,
+        "fear": 0.058622,
+        "disgust": 0.046871,
+        "anger": 0.013901
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 102,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly fomula",
+      "sentiment": {
+        "score": 0.64433,
+        "label": "positive"
+      },
+      "relevance": 0.939131,
+      "emotion": {
+        "sadness": 0.173864,
+        "joy": 0.295124,
+        "fear": 0.089978,
+        "disgust": 0.104024,
+        "anger": 0.091001
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic aloe ingredients",
+      "sentiment": {
+        "score": 0.614365,
+        "label": "positive"
+      },
+      "relevance": 0.942644,
+      "emotion": {
+        "sadness": 0.074537,
+        "joy": 0.555392,
+        "fear": 0.081713,
+        "disgust": 0.119926,
+        "anger": 0.059002
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11a8ed"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "points",
+      "sentiment": {
+        "score": 0.620562,
+        "label": "positive"
+      },
+      "relevance": 0.910674,
+      "emotion": {
+        "sadness": 0.323414,
+        "joy": 0.164267,
+        "fear": 0.076062,
+        "disgust": 0.138249,
+        "anger": 0.429858
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good visual description",
+      "sentiment": {
+        "score": 0.887581,
+        "label": "positive"
+      },
+      "relevance": 0.965799,
+      "emotion": {
+        "sadness": 0.073904,
+        "joy": 0.646312,
+        "fear": 0.038974,
+        "disgust": 0.052958,
+        "anger": 0.047497
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": -0.754941,
+        "label": "negative"
+      },
+      "relevance": 0.978932,
+      "emotion": {
+        "sadness": 0.105884,
+        "joy": 0.190152,
+        "fear": 0.061381,
+        "disgust": 0.17068,
+        "anger": 0.054146
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "packaging",
+      "sentiment": {
+        "score": 0.494136,
+        "label": "positive"
+      },
+      "relevance": 0.945293,
+      "emotion": {
+        "sadness": 0.05945,
+        "joy": 0.449577,
+        "fear": 0.143708,
+        "disgust": 0.012205,
+        "anger": 0.132089
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11ad9d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 130,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic aloe ingredient",
+      "sentiment": {
+        "score": 0.797777,
+        "label": "positive"
+      },
+      "relevance": 0.980612,
+      "emotion": {
+        "sadness": 0.084726,
+        "joy": 0.560157,
+        "fear": 0.065099,
+        "disgust": 0.057094,
+        "anger": 0.020868
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 129,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting",
+      "sentiment": {
+        "score": 0.77661,
+        "label": "positive"
+      },
+      "relevance": 0.906805,
+      "emotion": {
+        "sadness": 0.278986,
+        "joy": 0.242384,
+        "fear": 0.044726,
+        "disgust": 0.070718,
+        "anger": 0.026297
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.589654,
+        "label": "positive"
+      },
+      "relevance": 0.931106,
+      "emotion": {
+        "sadness": 0.143177,
+        "joy": 0.142388,
+        "fear": 0.06328,
+        "disgust": 0.025823,
+        "anger": 0.166402
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Melts",
+      "sentiment": {
+        "score": 0.827759,
+        "label": "positive"
+      },
+      "relevance": 0.983608,
+      "emotion": {
+        "sadness": 0.577829,
+        "joy": 0.047672,
+        "fear": 0.196518,
+        "disgust": 0.301296,
+        "anger": 0.130162
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 105,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.593266,
+        "label": "positive"
+      },
+      "relevance": 0.951968,
+      "emotion": {
+        "sadness": 0.278896,
+        "joy": 0.395216,
+        "fear": 0.017639,
+        "disgust": 0.154349,
+        "anger": 0.069028
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.748146,
+        "label": "positive"
+      },
+      "relevance": 0.984405,
+      "emotion": {
+        "sadness": 0.166196,
+        "joy": 0.591445,
+        "fear": 0.034196,
+        "disgust": 0.019945,
+        "anger": 0.027063
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "moisturizing effects",
+      "sentiment": {
+        "score": 0.526802,
+        "label": "positive"
+      },
+      "relevance": 0.95721,
+      "emotion": {
+        "sadness": 0.204539,
+        "joy": 0.199367,
+        "fear": 0.047357,
+        "disgust": 0.027506,
+        "anger": 0.031321
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.894315,
+        "label": "positive"
+      },
+      "relevance": 0.971308,
+      "emotion": {
+        "sadness": 0.027583,
+        "joy": 0.796247,
+        "fear": 0.040265,
+        "disgust": 0.033072,
+        "anger": 0.016448
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.457294,
+        "label": "positive"
+      },
+      "relevance": 0.987893,
+      "emotion": {
+        "sadness": 0.729746,
+        "joy": 0.200336,
+        "fear": 0.071121,
+        "disgust": 0.022361,
+        "anger": 0.03199
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 116,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative jelly gloss",
+      "sentiment": {
+        "score": 0.981007,
+        "label": "positive"
+      },
+      "relevance": 0.949721,
+      "emotion": {
+        "sadness": 0.193416,
+        "joy": 0.583736,
+        "fear": 0.088901,
+        "disgust": 0.045591,
+        "anger": 0.062065
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.750761,
+        "label": "positive"
+      },
+      "relevance": 0.961852,
+      "emotion": {
+        "sadness": 0.175488,
+        "joy": 0.531608,
+        "fear": 0.095493,
+        "disgust": 0.098013,
+        "anger": 0.118617
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good description",
+      "sentiment": {
+        "score": 0.869176,
+        "label": "positive"
+      },
+      "relevance": 0.910702,
+      "emotion": {
+        "sadness": 0.071075,
+        "joy": 0.786384,
+        "fear": 0.016656,
+        "disgust": 0.026465,
+        "anger": 0.018886
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 13,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "person",
+      "sentiment": {
+        "score": 0.645795,
+        "label": "positive"
+      },
+      "relevance": 0.946292,
+      "emotion": {
+        "sadness": 0.093132,
+        "joy": 0.171268,
+        "fear": 0.053299,
+        "disgust": 0.218886,
+        "anger": 0.088132
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "brand",
+      "sentiment": {
+        "score": 0.818857,
+        "label": "positive"
+      },
+      "relevance": 0.939518,
+      "emotion": {
+        "sadness": 0.0566,
+        "joy": 0.57994,
+        "fear": 0.063426,
+        "disgust": 0.031952,
+        "anger": 0.073612
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0.583063,
+        "label": "positive"
+      },
+      "relevance": 0.976031,
+      "emotion": {
+        "sadness": 0.109074,
+        "joy": 0.504679,
+        "fear": 0.03939,
+        "disgust": 0.015922,
+        "anger": 0.038249
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 124,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "little descriptions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978294,
+      "emotion": {
+        "sadness": 0.22907,
+        "joy": 0.209724,
+        "fear": 0.322771,
+        "disgust": 0.278899,
+        "anger": 0.068253
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.965468,
+      "emotion": {
+        "sadness": 0.091168,
+        "joy": 0.139287,
+        "fear": 0.029091,
+        "disgust": 0.025737,
+        "anger": 0.0169
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.498226,
+        "label": "positive"
+      },
+      "relevance": 0.964207,
+      "emotion": {
+        "sadness": 0.41402,
+        "joy": 0.129287,
+        "fear": 0.251621,
+        "disgust": 0.270886,
+        "anger": 0.081729
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 113,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly texture",
+      "sentiment": {
+        "score": 0.912018,
+        "label": "positive"
+      },
+      "relevance": 0.909746,
+      "emotion": {
+        "sadness": 0.264583,
+        "joy": 0.312928,
+        "fear": 0.090548,
+        "disgust": 0.083711,
+        "anger": 0.065188
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": -0.764568,
+        "label": "negative"
+      },
+      "relevance": 0.948352,
+      "emotion": {
+        "sadness": 0.396447,
+        "joy": 0.183088,
+        "fear": 0.215925,
+        "disgust": 0.181097,
+        "anger": 0.113439
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "set",
+      "sentiment": {
+        "score": 0.588524,
+        "label": "positive"
+      },
+      "relevance": 0.979286,
+      "emotion": {
+        "sadness": 0.209871,
+        "joy": 0.171117,
+        "fear": 0.034384,
+        "disgust": 0.0187,
+        "anger": 0.040802
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.898174,
+        "label": "positive"
+      },
+      "relevance": 0.967823,
+      "emotion": {
+        "sadness": 0.329107,
+        "joy": 0.520149,
+        "fear": 0.127663,
+        "disgust": 0.036568,
+        "anger": 0.01903
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": -0.541354,
+        "label": "negative"
+      },
+      "relevance": 0.971139,
+      "emotion": {
+        "sadness": 0.529602,
+        "joy": 0.063498,
+        "fear": 0.052845,
+        "disgust": 0.026082,
+        "anger": 0.046534
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 16,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.598548,
+        "label": "positive"
+      },
+      "relevance": 0.91615,
+      "emotion": {
+        "sadness": 0.085035,
+        "joy": 0.288312,
+        "fear": 0.066166,
+        "disgust": 0.015896,
+        "anger": 0.043489
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "bunch",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.932421,
+      "emotion": {
+        "sadness": 0.064667,
+        "joy": 0.121816,
+        "fear": 0.1134,
+        "disgust": 0.631533,
+        "anger": 0.32725
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good level",
+      "sentiment": {
+        "score": 0.52303,
+        "label": "positive"
+      },
+      "relevance": 0.988263,
+      "emotion": {
+        "sadness": 0.178333,
+        "joy": 0.427198,
+        "fear": 0.094834,
+        "disgust": 0.041698,
+        "anger": 0.152969
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "comfort",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987368,
+      "emotion": {
+        "sadness": 0.274129,
+        "joy": 0.454919,
+        "fear": 0.050978,
+        "disgust": 0.011879,
+        "anger": 0.037232
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smoothness",
+      "sentiment": {
+        "score": 0.843723,
+        "label": "positive"
+      },
+      "relevance": 0.947697,
+      "emotion": {
+        "sadness": 0.082731,
+        "joy": 0.37511,
+        "fear": 0.092529,
+        "disgust": 0.085046,
+        "anger": 0.076387
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss",
+      "sentiment": {
+        "score": 0.867573,
+        "label": "positive"
+      },
+      "relevance": 0.949048,
+      "emotion": {
+        "sadness": 0.518732,
+        "joy": 0.180389,
+        "fear": 0.161593,
+        "disgust": 0.166177,
+        "anger": 0.082308
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 115,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good impression",
+      "sentiment": {
+        "score": 0.805005,
+        "label": "positive"
+      },
+      "relevance": 0.916596,
+      "emotion": {
+        "sadness": 0.197992,
+        "joy": 0.666203,
+        "fear": 0.020148,
+        "disgust": 0.005884,
+        "anger": 0.020427
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.852776,
+        "label": "positive"
+      },
+      "relevance": 0.915171,
+      "emotion": {
+        "sadness": 0.143381,
+        "joy": 0.451861,
+        "fear": 0.054142,
+        "disgust": 0.041507,
+        "anger": 0.038171
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glass beads",
+      "sentiment": {
+        "score": 0.476077,
+        "label": "positive"
+      },
+      "relevance": 0.911031,
+      "emotion": {
+        "sadness": 0.279429,
+        "joy": 0.241651,
+        "fear": 0.080281,
+        "disgust": 0.133116,
+        "anger": 0.082163
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.848674,
+        "label": "positive"
+      },
+      "relevance": 0.984621,
+      "emotion": {
+        "sadness": 0.137388,
+        "joy": 0.432894,
+        "fear": 0.054021,
+        "disgust": 0.031552,
+        "anger": 0.029585
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": -0.537692,
+        "label": "negative"
+      },
+      "relevance": 0.964219,
+      "emotion": {
+        "sadness": 0.174012,
+        "joy": 0.077787,
+        "fear": 0.058106,
+        "disgust": 0.051851,
+        "anger": 0.070047
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural ingredients",
+      "sentiment": {
+        "score": 0.768395,
+        "label": "positive"
+      },
+      "relevance": 0.971022,
+      "emotion": {
+        "sadness": 0.111512,
+        "joy": 0.725234,
+        "fear": 0.059686,
+        "disgust": 0.027966,
+        "anger": 0.051604
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.541241,
+        "label": "positive"
+      },
+      "relevance": 0.988286,
+      "emotion": {
+        "sadness": 0.025938,
+        "joy": 0.704697,
+        "fear": 0.020474,
+        "disgust": 0.063517,
+        "anger": 0.011639
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 155,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly texture",
+      "sentiment": {
+        "score": 0.671964,
+        "label": "positive"
+      },
+      "relevance": 0.905931,
+      "emotion": {
+        "sadness": 0.201219,
+        "joy": 0.294315,
+        "fear": 0.060428,
+        "disgust": 0.066128,
+        "anger": 0.037117
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": -0.880416,
+        "label": "negative"
+      },
+      "relevance": 0.936193,
+      "emotion": {
+        "sadness": 0.28073,
+        "joy": 0.258741,
+        "fear": 0.212876,
+        "disgust": 0.163842,
+        "anger": 0.142857
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "aloe active  moisture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.957185,
+      "emotion": {
+        "sadness": 0.097723,
+        "joy": 0.100503,
+        "fear": 0.051026,
+        "disgust": 0.035354,
+        "anger": 0.043625
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 155,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "chanel rouge coco",
+      "sentiment": {
+        "score": -0.728622,
+        "label": "negative"
+      },
+      "relevance": 0.901115,
+      "emotion": {
+        "sadness": 0.438495,
+        "joy": 0.129373,
+        "fear": 0.103996,
+        "disgust": 0.042083,
+        "anger": 0.089574
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "point",
+      "sentiment": {
+        "score": 0.626785,
+        "label": "positive"
+      },
+      "relevance": 0.992383,
+      "emotion": {
+        "sadness": 0.185994,
+        "joy": 0.23156,
+        "fear": 0.043483,
+        "disgust": 0.068724,
+        "anger": 0.285207
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 158,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "plump lips",
+      "sentiment": {
+        "score": 0.785386,
+        "label": "positive"
+      },
+      "relevance": 0.960731,
+      "emotion": {
+        "sadness": 0.354591,
+        "joy": 0.56462,
+        "fear": 0.106461,
+        "disgust": 0.009912,
+        "anger": 0.032321
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 152,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting watery",
+      "sentiment": {
+        "score": 0.958287,
+        "label": "positive"
+      },
+      "relevance": 0.908527,
+      "emotion": {
+        "sadness": 0.144551,
+        "joy": 0.736249,
+        "fear": 0.096201,
+        "disgust": 0.016325,
+        "anger": 0.012841
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"invalid request: content is empty","x-global-transaction-id":"683fc2df5a72cdbe0b11a80d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative jelly gloss",
+      "sentiment": {
+        "score": 0.85635,
+        "label": "positive"
+      },
+      "relevance": 0.947587,
+      "emotion": {
+        "sadness": 0.069261,
+        "joy": 0.78876,
+        "fear": 0.023947,
+        "disgust": 0.024386,
+        "anger": 0.038254
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new jelly texture",
+      "sentiment": {
+        "score": 0.928565,
+        "label": "positive"
+      },
+      "relevance": 0.966466,
+      "emotion": {
+        "sadness": 0.167312,
+        "joy": 0.637099,
+        "fear": 0.107957,
+        "disgust": 0.074275,
+        "anger": 0.023162
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tempting shades",
+      "sentiment": {
+        "score": 0.816737,
+        "label": "positive"
+      },
+      "relevance": 0.901668,
+      "emotion": {
+        "sadness": 0.126188,
+        "joy": 0.288655,
+        "fear": 0.23235,
+        "disgust": 0.134281,
+        "anger": 0.178275
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.904984,
+        "label": "positive"
+      },
+      "relevance": 0.915675,
+      "emotion": {
+        "sadness": 0.108406,
+        "joy": 0.752991,
+        "fear": 0.042505,
+        "disgust": 0.023738,
+        "anger": 0.018052
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural ingredients",
+      "sentiment": {
+        "score": 0.814986,
+        "label": "positive"
+      },
+      "relevance": 0.900528,
+      "emotion": {
+        "sadness": 0.142209,
+        "joy": 0.447396,
+        "fear": 0.031293,
+        "disgust": 0.044321,
+        "anger": 0.014683
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 105,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly texture",
+      "sentiment": {
+        "score": 0.777122,
+        "label": "positive"
+      },
+      "relevance": 0.988173,
+      "emotion": {
+        "sadness": 0.506307,
+        "joy": 0.192601,
+        "fear": 0.110421,
+        "disgust": 0.172497,
+        "anger": 0.072625
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11afbd"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999646,
+      "emotion": {
+        "sadness": 0.056342,
+        "joy": 0.604207,
+        "fear": 0.311314,
+        "disgust": 0.026589,
+        "anger": 0.053321
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shades",
+      "sentiment": {
+        "score": 0.769514,
+        "label": "positive"
+      },
+      "relevance": 0.979459,
+      "emotion": {
+        "sadness": 0.239862,
+        "joy": 0.329729,
+        "fear": 0.072753,
+        "disgust": 0.056691,
+        "anger": 0.119705
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "different ingredients",
+      "sentiment": {
+        "score": 0.730086,
+        "label": "positive"
+      },
+      "relevance": 0.911779,
+      "emotion": {
+        "sadness": 0.270981,
+        "joy": 0.37206,
+        "fear": 0.034969,
+        "disgust": 0.116669,
+        "anger": 0.061069
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good feed",
+      "sentiment": {
+        "score": 0.646037,
+        "label": "positive"
+      },
+      "relevance": 0.989846,
+      "emotion": {
+        "sadness": 0.282755,
+        "joy": 0.148718,
+        "fear": 0.02881,
+        "disgust": 0.022033,
+        "anger": 0.029141
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.904845,
+        "label": "positive"
+      },
+      "relevance": 0.94041,
+      "emotion": {
+        "sadness": 0.273443,
+        "joy": 0.336687,
+        "fear": 0.034295,
+        "disgust": 0.279033,
+        "anger": 0.009581
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 119,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss effect",
+      "sentiment": {
+        "score": 0.87444,
+        "label": "positive"
+      },
+      "relevance": 0.923598,
+      "emotion": {
+        "sadness": 0.228576,
+        "joy": 0.17629,
+        "fear": 0.163476,
+        "disgust": 0.035739,
+        "anger": 0.025402
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "non-sticky watery texture",
+      "sentiment": {
+        "score": 0.873009,
+        "label": "positive"
+      },
+      "relevance": 0.991595,
+      "emotion": {
+        "sadness": 0.307378,
+        "joy": 0.210074,
+        "fear": 0.419143,
+        "disgust": 0.079767,
+        "anger": 0.098066
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0.896955,
+        "label": "positive"
+      },
+      "relevance": 0.941451,
+      "emotion": {
+        "sadness": 0.301637,
+        "joy": 0.328989,
+        "fear": 0.098726,
+        "disgust": 0.033348,
+        "anger": 0.051675
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "spherical glass beads",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.995598,
+      "emotion": {
+        "sadness": 0.281997,
+        "joy": 0.272593,
+        "fear": 0.163981,
+        "disgust": 0.164092,
+        "anger": 0.234726
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdbe0b11a7ad"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "optimistic adjectives",
+      "sentiment": {
+        "score": 0.896363,
+        "label": "positive"
+      },
+      "relevance": 0.908564,
+      "emotion": {
+        "sadness": 0.053775,
+        "joy": 0.741069,
+        "fear": 0.019829,
+        "disgust": 0.020118,
+        "anger": 0.020161
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "countless effects",
+      "sentiment": {
+        "score": -0.66896,
+        "label": "negative"
+      },
+      "relevance": 0.919225,
+      "emotion": {
+        "sadness": 0.329532,
+        "joy": 0.168271,
+        "fear": 0.205681,
+        "disgust": 0.038709,
+        "anger": 0.083695
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high class",
+      "sentiment": {
+        "score": 0.53059,
+        "label": "positive"
+      },
+      "relevance": 0.983949,
+      "emotion": {
+        "sadness": 0.485386,
+        "joy": 0.25296,
+        "fear": 0.156853,
+        "disgust": 0.132929,
+        "anger": 0.107954
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great product",
+      "sentiment": {
+        "score": 0.818734,
+        "label": "positive"
+      },
+      "relevance": 0.98611,
+      "emotion": {
+        "sadness": 0.041415,
+        "joy": 0.795996,
+        "fear": 0.02377,
+        "disgust": 0.0164,
+        "anger": 0.014477
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice product",
+      "sentiment": {
+        "score": 0.81459,
+        "label": "positive"
+      },
+      "relevance": 0.912128,
+      "emotion": {
+        "sadness": 0.111261,
+        "joy": 0.638542,
+        "fear": 0.033948,
+        "disgust": 0.017546,
+        "anger": 0.016212
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic ingredients",
+      "sentiment": {
+        "score": 0.911894,
+        "label": "positive"
+      },
+      "relevance": 0.984374,
+      "emotion": {
+        "sadness": 0.118366,
+        "joy": 0.58987,
+        "fear": 0.046836,
+        "disgust": 0.181665,
+        "anger": 0.008631
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.928547,
+        "label": "positive"
+      },
+      "relevance": 0.914003,
+      "emotion": {
+        "sadness": 0.13342,
+        "joy": 0.612867,
+        "fear": 0.077455,
+        "disgust": 0.180142,
+        "anger": 0.073628
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long wear",
+      "sentiment": {
+        "score": 0.598593,
+        "label": "positive"
+      },
+      "relevance": 0.975593,
+      "emotion": {
+        "sadness": 0.358732,
+        "joy": 0.126193,
+        "fear": 0.152276,
+        "disgust": 0.079356,
+        "anger": 0.033263
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "information",
+      "sentiment": {
+        "score": 0.726321,
+        "label": "positive"
+      },
+      "relevance": 0.987558,
+      "emotion": {
+        "sadness": 0.127367,
+        "joy": 0.298271,
+        "fear": 0.038182,
+        "disgust": 0.039023,
+        "anger": 0.073392
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.909618,
+        "label": "positive"
+      },
+      "relevance": 0.992015,
+      "emotion": {
+        "sadness": 0.051537,
+        "joy": 0.789297,
+        "fear": 0.07392,
+        "disgust": 0.067563,
+        "anger": 0.026406
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.842073,
+        "label": "positive"
+      },
+      "relevance": 0.904426,
+      "emotion": {
+        "sadness": 0.137388,
+        "joy": 0.432894,
+        "fear": 0.054021,
+        "disgust": 0.031552,
+        "anger": 0.029585
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "texture",
+      "sentiment": {
+        "score": 0.763918,
+        "label": "positive"
+      },
+      "relevance": 0.963541,
+      "emotion": {
+        "sadness": 0.13233,
+        "joy": 0.268629,
+        "fear": 0.069131,
+        "disgust": 0.157681,
+        "anger": 0.062774
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "little details",
+      "sentiment": {
+        "score": 0.935738,
+        "label": "positive"
+      },
+      "relevance": 0.97475,
+      "emotion": {
+        "sadness": 0.026946,
+        "joy": 0.173095,
+        "fear": 0.073471,
+        "disgust": 0.014845,
+        "anger": 0.033033
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 114,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wide variety",
+      "sentiment": {
+        "score": 0.884286,
+        "label": "positive"
+      },
+      "relevance": 0.961245,
+      "emotion": {
+        "sadness": 0.190372,
+        "joy": 0.179895,
+        "fear": 0.071279,
+        "disgust": 0.139518,
+        "anger": 0.329051
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 151,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good thing",
+      "sentiment": {
+        "score": 0.91386,
+        "label": "positive"
+      },
+      "relevance": 0.982024,
+      "emotion": {
+        "sadness": 0.065733,
+        "joy": 0.796175,
+        "fear": 0.065748,
+        "disgust": 0.039725,
+        "anger": 0.0137
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "waxes",
+      "sentiment": {
+        "score": 0.485164,
+        "label": "positive"
+      },
+      "relevance": 0.976431,
+      "emotion": {
+        "sadness": 0.10476,
+        "joy": 0.448856,
+        "fear": 0.046146,
+        "disgust": 0.040283,
+        "anger": 0.050616
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nice appearance",
+      "sentiment": {
+        "score": 0.872337,
+        "label": "positive"
+      },
+      "relevance": 0.9202,
+      "emotion": {
+        "sadness": 0.081022,
+        "joy": 0.777752,
+        "fear": 0.016375,
+        "disgust": 0.021401,
+        "anger": 0.017991
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss w/e",
+      "sentiment": {
+        "score": 0.465694,
+        "label": "positive"
+      },
+      "relevance": 0.92041,
+      "emotion": {
+        "sadness": 0.114419,
+        "joy": 0.313644,
+        "fear": 0.112121,
+        "disgust": 0.050756,
+        "anger": 0.02383
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 152,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.977288,
+      "emotion": {
+        "sadness": 0.068224,
+        "joy": 0.638839,
+        "fear": 0.114983,
+        "disgust": 0.023567,
+        "anger": 0.092034
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.92569,
+      "emotion": {
+        "sadness": 0.134378,
+        "joy": 0.185473,
+        "fear": 0.121031,
+        "disgust": 0.210226,
+        "anger": 0.062169
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "aloe oils",
+      "sentiment": {
+        "score": 0.611228,
+        "label": "positive"
+      },
+      "relevance": 0.982539,
+      "emotion": {
+        "sadness": 0.253024,
+        "joy": 0.307212,
+        "fear": 0.058951,
+        "disgust": 0.093045,
+        "anger": 0.098171
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nourishing product",
+      "sentiment": {
+        "score": -0.793999,
+        "label": "negative"
+      },
+      "relevance": 0.992763,
+      "emotion": {
+        "sadness": 0.236522,
+        "joy": 0.092271,
+        "fear": 0.040814,
+        "disgust": 0.014763,
+        "anger": 0.010723
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural ingredients",
+      "sentiment": {
+        "score": 0.518243,
+        "label": "positive"
+      },
+      "relevance": 0.977166,
+      "emotion": {
+        "sadness": 0.124435,
+        "joy": 0.34826,
+        "fear": 0.028744,
+        "disgust": 0.035772,
+        "anger": 0.013093
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 112,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shades",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.940378,
+      "emotion": {
+        "sadness": 0.237054,
+        "joy": 0.128548,
+        "fear": 0.024848,
+        "disgust": 0.034391,
+        "anger": 0.081719
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss wearers",
+      "sentiment": {
+        "score": -0.669774,
+        "label": "negative"
+      },
+      "relevance": 0.992591,
+      "emotion": {
+        "sadness": 0.046411,
+        "joy": 0.22597,
+        "fear": 0.126834,
+        "disgust": 0.041997,
+        "anger": 0.049172
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 119,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shades",
+      "sentiment": {
+        "score": 0.749162,
+        "label": "positive"
+      },
+      "relevance": 0.989684,
+      "emotion": {
+        "sadness": 0.193441,
+        "joy": 0.31877,
+        "fear": 0.097727,
+        "disgust": 0.048625,
+        "anger": 0.039317
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "break",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.905236,
+      "emotion": {
+        "sadness": 0.494178,
+        "joy": 0.086105,
+        "fear": 0.103897,
+        "disgust": 0.150305,
+        "anger": 0.180858
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 147,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "products smooths",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.936378,
+      "emotion": {
+        "sadness": 0.281497,
+        "joy": 0.48543,
+        "fear": 0.142178,
+        "disgust": 0.076659,
+        "anger": 0.010328
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": -0.654577,
+        "label": "negative"
+      },
+      "relevance": 0.903028,
+      "emotion": {
+        "sadness": 0.529602,
+        "joy": 0.063498,
+        "fear": 0.052845,
+        "disgust": 0.026082,
+        "anger": 0.046534
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.910137,
+      "emotion": {
+        "sadness": 0.182267,
+        "joy": 0.136979,
+        "fear": 0.063961,
+        "disgust": 0.042442,
+        "anger": 0.036238
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product sound",
+      "sentiment": {
+        "score": 0.820353,
+        "label": "positive"
+      },
+      "relevance": 0.992963,
+      "emotion": {
+        "sadness": 0.115597,
+        "joy": 0.476594,
+        "fear": 0.054883,
+        "disgust": 0.097613,
+        "anger": 0.033418
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 15,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72cdbf0ce12b95"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 107,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942051,
+      "emotion": {
+        "sadness": 0.018945,
+        "joy": 0.714576,
+        "fear": 0.046162,
+        "disgust": 0.003045,
+        "anger": 0.029264
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "plump",
+      "sentiment": {
+        "score": 0.92795,
+        "label": "positive"
+      },
+      "relevance": 0.944908,
+      "emotion": {
+        "sadness": 0.227779,
+        "joy": 0.575608,
+        "fear": 0.096169,
+        "disgust": 0.056453,
+        "anger": 0.029098
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Spherical Glass",
+      "sentiment": {
+        "score": 0.832645,
+        "label": "positive"
+      },
+      "relevance": 0.987495,
+      "emotion": {
+        "sadness": 0.075609,
+        "joy": 0.773297,
+        "fear": 0.061556,
+        "disgust": 0.05471,
+        "anger": 0.015333
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 102,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delicious new jelly",
+      "sentiment": {
+        "score": 0.91242,
+        "label": "positive"
+      },
+      "relevance": 0.908364,
+      "emotion": {
+        "sadness": 0.031005,
+        "joy": 0.874813,
+        "fear": 0.024513,
+        "disgust": 0.012852,
+        "anger": 0.013962
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "plumped look",
+      "sentiment": {
+        "score": 0.903313,
+        "label": "positive"
+      },
+      "relevance": 0.964586,
+      "emotion": {
+        "sadness": 0.133372,
+        "joy": 0.513269,
+        "fear": 0.051192,
+        "disgust": 0.091081,
+        "anger": 0.08639
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "word",
+      "sentiment": {
+        "score": 0.715131,
+        "label": "positive"
+      },
+      "relevance": 0.993041,
+      "emotion": {
+        "sadness": 0.136544,
+        "joy": 0.459148,
+        "fear": 0.031275,
+        "disgust": 0.228703,
+        "anger": 0.054097
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth glide",
+      "sentiment": {
+        "score": 0.785532,
+        "label": "positive"
+      },
+      "relevance": 0.974108,
+      "emotion": {
+        "sadness": 0.043218,
+        "joy": 0.52069,
+        "fear": 0.026502,
+        "disgust": 0.01912,
+        "anger": 0.026384
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 179,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "beads description",
+      "sentiment": {
+        "score": 0.827577,
+        "label": "positive"
+      },
+      "relevance": 0.90324,
+      "emotion": {
+        "sadness": 0.571631,
+        "joy": 0.153012,
+        "fear": 0.109044,
+        "disgust": 0.264554,
+        "anger": 0.097805
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gloss",
+      "sentiment": {
+        "score": -0.516879,
+        "label": "negative"
+      },
+      "relevance": 0.945553,
+      "emotion": {
+        "sadness": 0.12834,
+        "joy": 0.345353,
+        "fear": 0.078718,
+        "disgust": 0.052868,
+        "anger": 0.335708
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 98,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "soft description",
+      "sentiment": {
+        "score": 0.576314,
+        "label": "positive"
+      },
+      "relevance": 0.946518,
+      "emotion": {
+        "sadness": 0.275794,
+        "joy": 0.332472,
+        "fear": 0.074338,
+        "disgust": 0.216726,
+        "anger": 0.029195
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.940222,
+      "emotion": {
+        "sadness": 0.221254,
+        "joy": 0.17481,
+        "fear": 0.097063,
+        "disgust": 0.108232,
+        "anger": 0.108682
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "colors",
+      "sentiment": {
+        "score": 0.575173,
+        "label": "positive"
+      },
+      "relevance": 0.988606,
+      "emotion": {
+        "sadness": 0.184222,
+        "joy": 0.375728,
+        "fear": 0.1017,
+        "disgust": 0.04118,
+        "anger": 0.043975
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "making",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.90105,
+      "emotion": {
+        "sadness": 0.335859,
+        "joy": 0.090252,
+        "fear": 0.288407,
+        "disgust": 0.067867,
+        "anger": 0.154428
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "watery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.977353,
+      "emotion": {
+        "sadness": 0.598242,
+        "joy": 0.09672,
+        "fear": 0.146207,
+        "disgust": 0.123789,
+        "anger": 0.104051
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "aloe active ingredient",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.976773,
+      "emotion": {
+        "sadness": 0.034602,
+        "joy": 0.64129,
+        "fear": 0.062619,
+        "disgust": 0.015508,
+        "anger": 0.018591
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product good features",
+      "sentiment": {
+        "score": 0.845716,
+        "label": "positive"
+      },
+      "relevance": 0.977059,
+      "emotion": {
+        "sadness": 0.067278,
+        "joy": 0.451109,
+        "fear": 0.016969,
+        "disgust": 0.023065,
+        "anger": 0.009277
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glide",
+      "sentiment": {
+        "score": 0.795263,
+        "label": "positive"
+      },
+      "relevance": 0.986508,
+      "emotion": {
+        "sadness": 0.186806,
+        "joy": 0.144989,
+        "fear": 0.060799,
+        "disgust": 0.087329,
+        "anger": 0.062782
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99474,
+      "emotion": {
+        "sadness": 0.40097,
+        "joy": 0.236732,
+        "fear": 0.130482,
+        "disgust": 0.077668,
+        "anger": 0.044073
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "different shades",
+      "sentiment": {
+        "score": 0.673258,
+        "label": "positive"
+      },
+      "relevance": 0.906526,
+      "emotion": {
+        "sadness": 0.398694,
+        "joy": 0.223616,
+        "fear": 0.084419,
+        "disgust": 0.111135,
+        "anger": 0.138278
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "NEW FLVOR",
+      "sentiment": {
+        "score": 0.592172,
+        "label": "positive"
+      },
+      "relevance": 0.95057,
+      "emotion": {
+        "sadness": 0.113017,
+        "joy": 0.669423,
+        "fear": 0.091965,
+        "disgust": 0.043054,
+        "anger": 0.062351
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.922138,
+      "emotion": {
+        "sadness": 0.070583,
+        "joy": 0.626046,
+        "fear": 0.066665,
+        "disgust": 0.099758,
+        "anger": 0.032272
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 160,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic aloe",
+      "sentiment": {
+        "score": 0.903632,
+        "label": "positive"
+      },
+      "relevance": 0.933457,
+      "emotion": {
+        "sadness": 0.053801,
+        "joy": 0.797803,
+        "fear": 0.081105,
+        "disgust": 0.019014,
+        "anger": 0.03947
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 14,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "INFORMATION",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.980058,
+      "emotion": {
+        "sadness": 0.145935,
+        "joy": 0.46992,
+        "fear": 0.081319,
+        "disgust": 0.037739,
+        "anger": 0.156336
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jojoba",
+      "sentiment": {
+        "score": 0.688418,
+        "label": "positive"
+      },
+      "relevance": 0.997541,
+      "emotion": {
+        "sadness": 0.252094,
+        "joy": 0.348732,
+        "fear": 0.090254,
+        "disgust": 0.265398,
+        "anger": 0.154334
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72cdc00ce12e05"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "colors",
+      "sentiment": {
+        "score": 0.804099,
+        "label": "positive"
+      },
+      "relevance": 0.971839,
+      "emotion": {
+        "sadness": 0.06062,
+        "joy": 0.691292,
+        "fear": 0.078471,
+        "disgust": 0.009694,
+        "anger": 0.02312
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss sound",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.909513,
+      "emotion": {
+        "sadness": 0.122214,
+        "joy": 0.528446,
+        "fear": 0.12545,
+        "disgust": 0.139793,
+        "anger": 0.079884
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 123,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth soft lips",
+      "sentiment": {
+        "score": 0.85421,
+        "label": "positive"
+      },
+      "relevance": 0.93536,
+      "emotion": {
+        "sadness": 0.13516,
+        "joy": 0.45728,
+        "fear": 0.048292,
+        "disgust": 0.064568,
+        "anger": 0.010359
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.941765,
+        "label": "positive"
+      },
+      "relevance": 0.976292,
+      "emotion": {
+        "sadness": 0.262631,
+        "joy": 0.351904,
+        "fear": 0.208128,
+        "disgust": 0.136759,
+        "anger": 0.082359
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 111,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "jelly feature",
+      "sentiment": {
+        "score": 0.901618,
+        "label": "positive"
+      },
+      "relevance": 0.948378,
+      "emotion": {
+        "sadness": 0.20457,
+        "joy": 0.616392,
+        "fear": 0.023602,
+        "disgust": 0.077387,
+        "anger": 0.04439
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 156,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shimmering beads",
+      "sentiment": {
+        "score": 0.864313,
+        "label": "positive"
+      },
+      "relevance": 0.922553,
+      "emotion": {
+        "sadness": 0.189318,
+        "joy": 0.273164,
+        "fear": 0.07133,
+        "disgust": 0.11773,
+        "anger": 0.060807
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.710523,
+        "label": "positive"
+      },
+      "relevance": 0.941531,
+      "emotion": {
+        "sadness": 0.117669,
+        "joy": 0.33601,
+        "fear": 0.05118,
+        "disgust": 0.025491,
+        "anger": 0.028466
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901691,
+      "emotion": {
+        "sadness": 0.143131,
+        "joy": 0.113502,
+        "fear": 0.127852,
+        "disgust": 0.047336,
+        "anger": 0.050535
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "word",
+      "sentiment": {
+        "score": 0.723864,
+        "label": "positive"
+      },
+      "relevance": 0.90542,
+      "emotion": {
+        "sadness": 0.105184,
+        "joy": 0.525205,
+        "fear": 0.053739,
+        "disgust": 0.164709,
+        "anger": 0.159411
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ad",
+      "sentiment": {
+        "score": 0.743669,
+        "label": "positive"
+      },
+      "relevance": 0.925462,
+      "emotion": {
+        "sadness": 0.367397,
+        "joy": 0.334305,
+        "fear": 0.114962,
+        "disgust": 0.027245,
+        "anger": 0.025496
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural ingredients",
+      "sentiment": {
+        "score": 0.840707,
+        "label": "positive"
+      },
+      "relevance": 0.926334,
+      "emotion": {
+        "sadness": 0.128274,
+        "joy": 0.3138,
+        "fear": 0.035986,
+        "disgust": 0.041233,
+        "anger": 0.023323
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "softer lips",
+      "sentiment": {
+        "score": 0.818016,
+        "label": "positive"
+      },
+      "relevance": 0.984304,
+      "emotion": {
+        "sadness": 0.068956,
+        "joy": 0.769624,
+        "fear": 0.048397,
+        "disgust": 0.059976,
+        "anger": 0.014862
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "smooth shimmery product",
+      "sentiment": {
+        "score": 0.831604,
+        "label": "positive"
+      },
+      "relevance": 0.930575,
+      "emotion": {
+        "sadness": 0.12534,
+        "joy": 0.389266,
+        "fear": 0.038408,
+        "disgust": 0.017613,
+        "anger": 0.005149
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "HIGH QUALITY",
+      "sentiment": {
+        "score": 0.552735,
+        "label": "positive"
+      },
+      "relevance": 0.976551,
+      "emotion": {
+        "sadness": 0.174875,
+        "joy": 0.391608,
+        "fear": 0.101905,
+        "disgust": 0.060592,
+        "anger": 0.088393
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 108,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aloe Active Ingredient",
+      "sentiment": {
+        "score": 0.812625,
+        "label": "positive"
+      },
+      "relevance": 0.933552
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long lasting affect",
+      "sentiment": {
+        "score": 0.765189,
+        "label": "positive"
+      },
+      "relevance": 0.993045,
+      "emotion": {
+        "sadness": 0.438199,
+        "joy": 0.338927,
+        "fear": 0.066861,
+        "disgust": 0.022198,
+        "anger": 0.033373
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "aloe organic ingredient",
+      "sentiment": {
+        "score": 0.495811,
+        "label": "positive"
+      },
+      "relevance": 0.931015,
+      "emotion": {
+        "sadness": 0.082885,
+        "joy": 0.526228,
+        "fear": 0.087072,
+        "disgust": 0.129539,
+        "anger": 0.042644
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product justice",
+      "sentiment": {
+        "score": 0.923854,
+        "label": "positive"
+      },
+      "relevance": 0.950422,
+      "emotion": {
+        "sadness": 0.280593,
+        "joy": 0.64769,
+        "fear": 0.047503,
+        "disgust": 0.018686,
+        "anger": 0.017481
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "information",
+      "sentiment": {
+        "score": 0.761115,
+        "label": "positive"
+      },
+      "relevance": 0.977912,
+      "emotion": {
+        "sadness": 0.135391,
+        "joy": 0.518581,
+        "fear": 0.072769,
+        "disgust": 0.030192,
+        "anger": 0.066069
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Natural ingredients",
+      "sentiment": {
+        "score": 0.637156,
+        "label": "positive"
+      },
+      "relevance": 0.954565,
+      "emotion": {
+        "sadness": 0.121941,
+        "joy": 0.35492,
+        "fear": 0.028006,
+        "disgust": 0.036203,
+        "anger": 0.013236
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "noutishing aspects",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987072,
+      "emotion": {
+        "sadness": 0.151545,
+        "joy": 0.174219,
+        "fear": 0.093654,
+        "disgust": 0.072945,
+        "anger": 0.08686
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Smooth glide",
+      "sentiment": {
+        "score": 0.760363,
+        "label": "positive"
+      },
+      "relevance": 0.944079,
+      "emotion": {
+        "sadness": 0.103083,
+        "joy": 0.595835,
+        "fear": 0.051484,
+        "disgust": 0.030274,
+        "anger": 0.045363
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "yummy",
+      "sentiment": {
+        "score": 0.883946,
+        "label": "positive"
+      },
+      "relevance": 0.971689,
+      "emotion": {
+        "sadness": 0.06618,
+        "joy": 0.747277,
+        "fear": 0.038754,
+        "disgust": 0.109149,
+        "anger": 0.039591
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shades",
+      "sentiment": {
+        "score": 0.54023,
+        "label": "positive"
+      },
+      "relevance": 0.97953,
+      "emotion": {
+        "sadness": 0.300703,
+        "joy": 0.202086,
+        "fear": 0.190756,
+        "disgust": 0.103811,
+        "anger": 0.061638
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.757761,
+        "label": "positive"
+      },
+      "relevance": 0.981824,
+      "emotion": {
+        "sadness": 0.207752,
+        "joy": 0.197044,
+        "fear": 0.045362,
+        "disgust": 0.040054,
+        "anger": 0.034124
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 113,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural waxes",
+      "sentiment": {
+        "score": 0.886742,
+        "label": "positive"
+      },
+      "relevance": 0.915826,
+      "emotion": {
+        "sadness": 0.120166,
+        "joy": 0.482865,
+        "fear": 0.084205,
+        "disgust": 0.076192,
+        "anger": 0.058984
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic natural waxes",
+      "sentiment": {
+        "score": 0.862201,
+        "label": "positive"
+      },
+      "relevance": 0.993417,
+      "emotion": {
+        "sadness": 0.064531,
+        "joy": 0.550518,
+        "fear": 0.072603,
+        "disgust": 0.033581,
+        "anger": 0.019038
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 141,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "easy-to-carry packaging",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.934574,
+      "emotion": {
+        "sadness": 0.090259,
+        "joy": 0.517742,
+        "fear": 0.143877,
+        "disgust": 0.020873,
+        "anger": 0.098837
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.903858,
+      "emotion": {
+        "sadness": 0.248877,
+        "joy": 0.416838,
+        "fear": 0.165375,
+        "disgust": 0.143647,
+        "anger": 0.109252
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "product",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.98756,
+      "emotion": {
+        "sadness": 0.231095,
+        "joy": 0.064514,
+        "fear": 0.034028,
+        "disgust": 0.015277,
+        "anger": 0.059536
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.989749,
+      "emotion": {
+        "sadness": 0.493412,
+        "joy": 0.275619,
+        "fear": 0.184046,
+        "disgust": 0.142753,
+        "anger": 0.085866
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 21,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"683fc2df5a72cdc10b11a62d"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 187,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aloe Active Ingredients",
+      "sentiment": {
+        "score": 0.816779,
+        "label": "positive"
+      },
+      "relevance": 0.938248,
+      "emotion": {
+        "sadness": 0.058875,
+        "joy": 0.287489,
+        "fear": 0.10541,
+        "disgust": 0.034835,
+        "anger": 0.089608
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 145,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "effortless application",
+      "sentiment": {
+        "score": 0.955893,
+        "label": "positive"
+      },
+      "relevance": 0.946852,
+      "emotion": {
+        "sadness": 0.074028,
+        "joy": 0.214049,
+        "fear": 0.029856,
+        "disgust": 0.028336,
+        "anger": 0.034167
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 132,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative jelly gloss",
+      "sentiment": {
+        "score": 0.907727,
+        "label": "positive"
+      },
+      "relevance": 0.918063,
+      "emotion": {
+        "sadness": 0.064732,
+        "joy": 0.735263,
+        "fear": 0.023344,
+        "disgust": 0.038687,
+        "anger": 0.02236
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.850725,
+        "label": "positive"
+      },
+      "relevance": 0.946484,
+      "emotion": {
+        "sadness": 0.091419,
+        "joy": 0.646667,
+        "fear": 0.107661,
+        "disgust": 0.049215,
+        "anger": 0.051363
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "organic ingredients",
+      "sentiment": {
+        "score": 0.862959,
+        "label": "positive"
+      },
+      "relevance": 0.900728,
+      "emotion": {
+        "sadness": 0.090681,
+        "joy": 0.666585,
+        "fear": 0.084217,
+        "disgust": 0.037445,
+        "anger": 0.013781
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "description",
+      "sentiment": {
+        "score": 0.852937,
+        "label": "positive"
+      },
+      "relevance": 0.979982,
+      "emotion": {
+        "sadness": 0.305165,
+        "joy": 0.454597,
+        "fear": 0.050754,
+        "disgust": 0.110047,
+        "anger": 0.028596
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 202,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nonorganic products",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901205,
+      "emotion": {
+        "sadness": 0.251529,
+        "joy": 0.129512,
+        "fear": 0.014052,
+        "disgust": 0.086079,
+        "anger": 0.060784
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Innovative jelly gloss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.905795,
+      "emotion": {
+        "sadness": 0.092147,
+        "joy": 0.433111,
+        "fear": 0.056328,
+        "disgust": 0.054198,
+        "anger": 0.050316
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": 0.567715,
+        "label": "positive"
+      },
+      "relevance": 0.942789,
+      "emotion": {
+        "sadness": 0.155815,
+        "joy": 0.49771,
+        "fear": 0.213225,
+        "disgust": 0.08188,
+        "anger": 0.098641
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "natural  waxes",
+      "sentiment": {
+        "score": 0.603568,
+        "label": "positive"
+      },
+      "relevance": 0.905838,
+      "emotion": {
+        "sadness": 0.111005,
+        "joy": 0.243081,
+        "fear": 0.045525,
+        "disgust": 0.005434,
+        "anger": 0.012642
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hasa smooth watery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990595,
+      "emotion": {
+        "sadness": 0.170832,
+        "joy": 0.380112,
+        "fear": 0.086035,
+        "disgust": 0.043287,
+        "anger": 0.008734
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "big difference",
+      "sentiment": {
+        "score": -0.475668,
+        "label": "negative"
+      },
+      "relevance": 0.905253,
+      "emotion": {
+        "sadness": 0.145886,
+        "joy": 0.422858,
+        "fear": 0.206317,
+        "disgust": 0.10523,
+        "anger": 0.105873
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "cosmetic bag",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.94939,
+      "emotion": {
+        "sadness": 0.216041,
+        "joy": 0.081343,
+        "fear": 0.017161,
+        "disgust": 0.04325,
+        "anger": 0.034253
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "light flexion",
+      "sentiment": {
+        "score": 0.952098,
+        "label": "positive"
+      },
+      "relevance": 0.91725,
+      "emotion": {
+        "sadness": 0.071794,
+        "joy": 0.873706,
+        "fear": 0.022256,
+        "disgust": 0.002578,
+        "anger": 0.008063
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "shades",
+      "sentiment": {
+        "score": 0.882527,
+        "label": "positive"
+      },
+      "relevance": 0.959363,
+      "emotion": {
+        "sadness": 0.265901,
+        "joy": 0.337162,
+        "fear": 0.091145,
+        "disgust": 0.023837,
+        "anger": 0.041877
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "words",
+      "sentiment": {
+        "score": 0.594849,
+        "label": "positive"
+      },
+      "relevance": 0.973871,
+      "emotion": {
+        "sadness": 0.0327,
+        "joy": 0.842552,
+        "fear": 0.013579,
+        "disgust": 0.023281,
+        "anger": 0.01914
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lip gloss",
+      "sentiment": {
+        "score": -0.708143,
+        "label": "negative"
+      },
+      "relevance": 0.937213,
+      "emotion": {
+        "sadness": 0.381688,
+        "joy": 0.158838,
+        "fear": 0.219805,
+        "disgust": 0.16064,
+        "anger": 0.167355
+      }
+    }
+  ]
+}{"code":400,"error":"not enough text provided for language detection","x-global-transaction-id":"0e7fa6da5a72cdc5013c553b"}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wording",
+      "sentiment": {
+        "score": 0.577051,
+        "label": "positive"
+      },
+      "relevance": 0.924891,
+      "emotion": {
+        "sadness": 0.15857,
+        "joy": 0.543518,
+        "fear": 0.062614,
+        "disgust": 0.118477,
+        "anger": 0.075906
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 10,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Joboba",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.927397,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "glide",
+      "sentiment": {
+        "score": 0.481622,
+        "label": "positive"
+      },
+      "relevance": 0.992429,
+      "emotion": {
+        "sadness": 0.14622,
+        "joy": 0.307128,
+        "fear": 0.025545,
+        "disgust": 0.014865,
+        "anger": 0.019677
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kind",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9579,
+      "emotion": {
+        "sadness": 0.236263,
+        "joy": 0.242685,
+        "fear": 0.048207,
+        "disgust": 0.117451,
+        "anger": 0.135643
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 105,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "light reflex beads.",
+      "sentiment": {
+        "score": 0.889758,
+        "label": "positive"
+      },
+      "relevance": 0.93539,
+      "emotion": {
+        "sadness": 0.195766,
+        "joy": 0.372773,
+        "fear": 0.18772,
+        "disgust": 0.185467,
+        "anger": 0.04972
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high-shine watery result",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953937,
+      "emotion": {
+        "sadness": 0.18866,
+        "joy": 0.678822,
+        "fear": 0.019005,
+        "disgust": 0.00687,
+        "anger": 0.021486
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hydra boost complex",
+      "sentiment": {
+        "score": 0.93934,
+        "label": "positive"
+      },
+      "relevance": 0.987845,
+      "emotion": {
+        "sadness": 0.032244,
+        "joy": 0.69066,
+        "fear": 0.073736,
+        "disgust": 0.016091,
+        "anger": 0.064546
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 227,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nourishing effect",
+      "sentiment": {
+        "score": 0.877983,
+        "label": "positive"
+      },
+      "relevance": 0.986527,
+      "emotion": {
+        "sadness": 0.306586,
+        "joy": 0.18311,
+        "fear": 0.263506,
+        "disgust": 0.025523,
+        "anger": 0.033441
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.982877,
+        "label": "positive"
+      },
+      "relevance": 0.981236,
+      "emotion": {
+        "sadness": 0.389464,
+        "joy": 0.48536,
+        "fear": 0.079503,
+        "disgust": 0.045254,
+        "anger": 0.051068
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lips",
+      "sentiment": {
+        "score": 0.929855,
+        "label": "positive"
+      },
+      "relevance": 0.909858,
+      "emotion": {
+        "sadness": 0.418966,
+        "joy": 0.415039,
+        "fear": 0.133483,
+        "disgust": 0.093579,
+        "anger": 0.03368
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nuances",
+      "sentiment": {
+        "score": -0.333883,
+        "label": "negative"
+      },
+      "relevance": 0.924154,
+      "emotion": {
+        "sadness": 0.240316,
+        "joy": 0.257239,
+        "fear": 0.078863,
+        "disgust": 0.039483,
+        "anger": 0.140412
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "attention",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997108,
+      "emotion": {
+        "sadness": 0.439377,
+        "joy": 0.175035,
+        "fear": 0.266899,
+        "disgust": 0.049485,
+        "anger": 0.059248
+      }
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "plump effect",
+      "sentiment": {
+        "score": 0.843645,
+        "label": "positive"
+      },
+      "relevance": 0.941197,
+      "emotion": {
+        "sadness": 0.333469,
+        "joy": 0.166187,
+        "fear": 0.172046,
+        "disgust": 0.028563,
+        "anger": 0.028399
+      }
+    }
+  ]
+}

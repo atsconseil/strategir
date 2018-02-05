@@ -1,0 +1,17 @@
+var watson = require('watson-developer-cloud');
+var language_translator = watson.language_translator({
+  username: '3329ac63-23f0-4632-a875-8ab61ba95f9a',
+  password: 'Om54fWlHdOxK',
+  version: 'v2',
+  url: 'https://gateway-fra.watsonplatform.net/language-translator/api'
+});
+language_translator.translate({
+    text: 'Moi c’est différent, car c’est un accident du travail donc je suis parti en ambulance directement de mon lieu de travail. A l’époque j’étais intérimaire, donc 2 employeurs , ma boite d’intérim et la société qui me faisait travailler comme intérimaire. Ils ont de suite pris des nouvelles à l’hôpital et ont vite compris que c’était grave. Le dirigeant de la boite d’intérim est venu même me voir à l’hôpital. L’autre société devait me faire signer un CDI en Janvier 2012 , rappel de mon accident qui était en dec 2011 , ils m’ont dit t inquiète pas , prend soin de toi et reviens quand tu peux. Je suis allée en centre d rééducation ,et pareil , les DRH sont même venus me voir , j’appréciais le geste au départ , mais en fait c’était pour mieux m’amadouer ! Car il voulait éviter un procès pour faute inexcusable ! Je l’ai compris plus tard... Donc en juillet ils me font signer mon CDI , mais cela ne m’a pas empêcher de continuer mon dossier avec mon avocat ! Il faut que je pense à mon avenir, et en cas d’accident du travail le seul recours est la faute inexcusable pour toucher des indemnités de préjudice. L’affaire est toujours en cours !!!! Pour moi , rien a été vraiment comme cela , j’ai repris suite à ma consolidation n mi temps thérapeutique , avec le droit de faire des pauses , au début tout va bien , les gens pensent à votre handicap , mais après tout se complique , on oublie vite l’amputation et on vous demande de fournir les mêmes efforts qu’avant ! Par ex au début en mi-temps j’avais des horaires style 13h 17h ou 14h 18h , au fur et a mesure , ils m’ont mis de 15h à 22h , même contre l’avis du médecin du travail !!! J’avais de plus en plus de pression et on me demandait d’aller plus vite ! Aujourd’hui avez-vous encore à effectuer des démarches auprès de votre employeur ? Je suis toujours en procès avec eux , j’attends la fin de décision le 27 juin exactement , pour savoir si ils veulent aller en cassation ! et oui cela fait 6 ans que ça dure. J’ai fait une rupture conventionnelle et j’ai changé de travail récemment , je ne pouvais plus . Chez mon nouvel employeur mes horaires correspondent plus à mon handicap et je suis libre de faire les pauses. je n’ai pas de rendement , et je gère mon temps ! Non médecin traitant me faisait mes arrêts pour mon mi-temps , et j’étais suivi par la médecine du travail. L’impact est énorme , puisque , j’étais seulement entre 50 et 70 % contre 100 % Je n’ai pas accès à toutes les primes , même la prime de l’année est sur le temps de travail , donc je ne l’avais jamais entière. Je ne peux pas faire d’heure sup , je ne peux pas évoluer. Dans mon cas je viens de changer de travail eu 1 er juin , donc j’évolue avec ma nouvelle carrière , je vais surement faire des formations , j’essaie d’avancer !',
+    source: 'fr',
+    target: 'en'
+  }, function(err, translation) {
+    if (err)
+      console.log(err)
+    else
+      console.log(translation.translations[0].translation);
+});
